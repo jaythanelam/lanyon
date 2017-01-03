@@ -3,7 +3,6 @@ title: 'Now THAT&#8217;S a play date!'
 date: 2015-07-27
 author: Jennifer
 layout: post
-guid: http://localhost:8888/wordpress/2015/07/27/2015726now-thats-a-play-date/
 permalink: /2015/07/27/2015726now-thats-a-play-date/
 categories:
   - Uncategorized

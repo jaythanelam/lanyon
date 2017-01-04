@@ -1,10 +1,8 @@
 ---
-id: 848
 title: '&#8220;they might be giants&#8221; in the flesh!'
-date: 2009-10-23T21:09:18+00:00
+date: 2009-10-23
 author: Jennifer
 layout: post
-guid: http://localhost:8888/wordpress/2009/10/23/20091023they-might-be-giants-in-the-flesh/
 permalink: /2009/10/23/20091023they-might-be-giants-in-the-flesh/
 categories:
   - Picture of the Day

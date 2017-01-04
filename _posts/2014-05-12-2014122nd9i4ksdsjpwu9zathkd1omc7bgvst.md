@@ -1,10 +1,8 @@
 ---
-id: 1809
 title: Yin w/ the yang
-date: 2014-05-12T20:25:20+00:00
+date: 2014-05-12
 author: Jennifer
 layout: post
-guid: http://localhost:8888/wordpress/2014/05/12/2014122nd9i4ksdsjpwu9zathkd1omc7bgvst/
 permalink: /2014/05/12/2014122nd9i4ksdsjpwu9zathkd1omc7bgvst/
 categories:
   - Uncategorized

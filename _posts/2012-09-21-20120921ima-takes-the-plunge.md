@@ -1,10 +1,8 @@
 ---
-id: 945
 title: Ima takes the plunge!
-date: 2012-09-21T08:13:22+00:00
+date: 2012-09-21
 author: Jennifer
 layout: post
-guid: http://localhost:8888/wordpress/2012/09/21/20120921ima-takes-the-plunge/
 permalink: /2012/09/21/20120921ima-takes-the-plunge/
 categories:
   - Uncategorized

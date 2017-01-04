@@ -1,10 +1,8 @@
 ---
-id: 850
 title: the hamburglar hits the zoo!
-date: 2009-10-25T00:09:31+00:00
+date: 2009-10-25
 author: Jennifer
 layout: post
-guid: http://localhost:8888/wordpress/2009/10/25/20091025the-hamburglar-hits-the-zoo/
 permalink: /2009/10/25/20091025the-hamburglar-hits-the-zoo/
 categories:
   - Picture of the Day

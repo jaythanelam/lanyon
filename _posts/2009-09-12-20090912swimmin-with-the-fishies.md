@@ -1,10 +1,8 @@
 ---
-id: 841
 title: 'swimmin&#8217; with the fishies'
-date: 2009-09-12T19:39:40+00:00
+date: 2009-09-12
 author: Jennifer
 layout: post
-guid: http://localhost:8888/wordpress/2009/09/12/20090912swimmin-with-the-fishies/
 permalink: /2009/09/12/20090912swimmin-with-the-fishies/
 categories:
   - Picture of the Day

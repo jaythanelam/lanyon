@@ -1,17 +1,15 @@
 ---
-id: 901
 title: 'Why You Can&#8217;t Buy Creativity'
-date: 2011-09-30T15:15:31+00:00
+date: 2011-09-30
 author: Jennifer
 layout: post
-guid: http://localhost:8888/wordpress/2011/09/30/20110930why-you-cant-buy-creativity/
 permalink: /2011/09/30/20110930why-you-cant-buy-creativity/
 categories:
   - JDE
   - Uncategorized
 ---
 As Jennifer and I refine our ability to work with each other &#8211; as well as inspire new clients to hitch onto [jointley&#8217;s](http://www.jointley.com/) passions 🙂 I was inspired by this article and wanted to share.
-  
+
 &nbsp;
 
 &#8220;The work had better be good, I&#8217;m paying them enough.&#8221; Over the years I&#8217;ve heard this statement &#8211; or versions of it &#8211; from many different managers charged with getting creative work out of their teams.
@@ -53,7 +51,7 @@ So it&#8217;s vital to strike a balance between intrinsic and extrinsic motivati
 And challenge yourself to take a creative approach to any job you take on, no matter how unpromising the brief. It could be as mundane as packaging elastic bands, but if you keep coming up with original and valuable solutions, you&#8217;ll earn a reputation for priceless creativity.
 
 &#8212;
-  
+
 What Motivates You and Your Team?
 
 Think about the best piece of creative work you ever did &#8211; what motivated you to do it?
@@ -61,5 +59,5 @@ Think about the best piece of creative work you ever did &#8211; what motivated 
 Any tips on motivating and inspiring creative employees?
 
 &#8212;
-  
+
 BY: Mark McGuinness is a coach and trainer who helps companies retain their creative edge at Wishful Thinking.

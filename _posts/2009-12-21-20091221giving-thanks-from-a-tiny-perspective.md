@@ -1,10 +1,8 @@
 ---
-id: 855
 title: 'giving thanks &#8211; from a tiny perspective'
-date: 2009-12-21T01:32:46+00:00
+date: 2009-12-21
 author: Jennifer
 layout: post
-guid: http://localhost:8888/wordpress/2009/12/21/20091221giving-thanks-from-a-tiny-perspective/
 permalink: /2009/12/21/20091221giving-thanks-from-a-tiny-perspective/
 categories:
   - Picture of the Day

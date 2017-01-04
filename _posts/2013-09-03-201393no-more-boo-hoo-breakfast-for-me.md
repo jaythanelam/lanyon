@@ -1,10 +1,8 @@
 ---
-id: 1528
 title: let the games begin!
-date: 2013-09-03T13:28:46+00:00
+date: 2013-09-03
 author: Jennifer
 layout: post
-guid: http://localhost:8888/wordpress/2013/09/03/201393no-more-boo-hoo-breakfast-for-me/
 permalink: /2013/09/03/201393no-more-boo-hoo-breakfast-for-me/
 categories:
   - Uncategorized

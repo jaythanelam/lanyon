@@ -1,10 +1,8 @@
 ---
-id: 506
 title: Never going to liv it up
-date: 2014-05-12T20:12:51+00:00
+date: 2014-05-12
 author: Jennifer
 layout: post
-guid: http://localhost:8888/wordpress/2014/05/12/2014512never-going-to-liv-it-up/
 permalink: /2014/05/12/2014512never-going-to-liv-it-up/
 categories:
   - Uncategorized

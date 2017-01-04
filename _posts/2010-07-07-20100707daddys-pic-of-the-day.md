@@ -1,10 +1,8 @@
 ---
-id: 875
 title: 'Daddy&#8217;s pic of the day'
-date: 2010-07-07T20:08:38+00:00
+date: 2010-07-07
 author: Jennifer
 layout: post
-guid: http://localhost:8888/wordpress/2010/07/07/20100707daddys-pic-of-the-day/
 permalink: /2010/07/07/20100707daddys-pic-of-the-day/
 categories:
   - Picture of the Day

@@ -1,10 +1,8 @@
 ---
-id: 870
 title: 'Luca&#8217;s bash &#8211; it takes a village&#8230;'
-date: 2010-06-26T19:54:08+00:00
+date: 2010-06-26
 author: Jennifer
 layout: post
-guid: http://localhost:8888/wordpress/2010/06/26/20100626lucas-bash-it-takes-a-village/
 permalink: /2010/06/26/20100626lucas-bash-it-takes-a-village/
 categories:
   - Jennifer

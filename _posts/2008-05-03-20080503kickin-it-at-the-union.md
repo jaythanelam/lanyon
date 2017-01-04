@@ -1,10 +1,8 @@
 ---
-id: 812
 title: 'kickin&#8217; it at the union'
-date: 2008-05-03T13:56:06+00:00
+date: 2008-05-03
 author: Jennifer
 layout: post
-guid: http://localhost:8888/wordpress/2008/05/03/20080503kickin-it-at-the-union/
 permalink: /2008/05/03/20080503kickin-it-at-the-union/
 categories:
   - Jennifer

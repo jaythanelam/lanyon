@@ -1,10 +1,8 @@
 ---
-id: 1195
 title: Watch as the tiger stalks his prey!
-date: 2013-04-25T02:40:45+00:00
+date: 2013-04-25
 author: Jennifer
 layout: post
-guid: http://localhost:8888/wordpress/2013/04/25/2013424watch-as-the-tiger-stalks-his-prey/
 permalink: /2013/04/25/2013424watch-as-the-tiger-stalks-his-prey/
 categories:
   - Uncategorized

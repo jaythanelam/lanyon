@@ -1,10 +1,8 @@
 ---
-id: 859
 title: 'i&#8217;d follow you anywhere avett'
-date: 2010-03-14T18:58:24+00:00
+date: 2010-03-14
 author: Jennifer
 layout: post
-guid: http://localhost:8888/wordpress/2010/03/14/20100314id-follow-you-anywhere-avett/
 permalink: /2010/03/14/20100314id-follow-you-anywhere-avett/
 categories:
   - Jennifer

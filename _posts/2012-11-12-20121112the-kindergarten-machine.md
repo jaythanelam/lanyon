@@ -1,10 +1,8 @@
 ---
-id: 957
 title: The kindergarten machine
-date: 2012-11-12T15:50:35+00:00
+date: 2012-11-12
 author: Jennifer
 layout: post
-guid: http://localhost:8888/wordpress/2012/11/12/20121112the-kindergarten-machine/
 permalink: /2012/11/12/20121112the-kindergarten-machine/
 categories:
   - Baby E

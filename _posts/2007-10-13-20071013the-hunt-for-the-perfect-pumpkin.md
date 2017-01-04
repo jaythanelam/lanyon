@@ -1,10 +1,8 @@
 ---
-id: 799
 title: The Hunt for the Perfect Pumpkin!
-date: 2007-10-13T14:33:12+00:00
+date: 2007-10-13
 author: Jennifer
 layout: post
-guid: http://localhost:8888/wordpress/2007/10/13/20071013the-hunt-for-the-perfect-pumpkin/
 permalink: /2007/10/13/20071013the-hunt-for-the-perfect-pumpkin/
 categories:
   - Jennifer

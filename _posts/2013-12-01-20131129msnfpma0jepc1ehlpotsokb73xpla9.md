@@ -1,10 +1,8 @@
 ---
-id: 1650
 title: Giving Thanks
-date: 2013-12-01T07:44:15+00:00
+date: 2013-12-01
 author: Jennifer
 layout: post
-guid: http://localhost:8888/wordpress/2013/12/01/20131129msnfpma0jepc1ehlpotsokb73xpla9/
 permalink: /2013/12/01/20131129msnfpma0jepc1ehlpotsokb73xpla9/
 categories:
   - Uncategorized

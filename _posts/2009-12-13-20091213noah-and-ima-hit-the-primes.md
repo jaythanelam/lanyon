@@ -1,10 +1,8 @@
 ---
-id: 853
 title: Noah and Ima hit the primes
-date: 2009-12-13T18:21:44+00:00
+date: 2009-12-13
 author: Jennifer
 layout: post
-guid: http://localhost:8888/wordpress/2009/12/13/20091213noah-and-ima-hit-the-primes/
 permalink: /2009/12/13/20091213noah-and-ima-hit-the-primes/
 categories:
   - Baby E

@@ -1,10 +1,8 @@
 ---
-id: 1755
 title: culture
-date: 2013-12-27T16:28:05+00:00
+date: 2013-12-27
 author: Jennifer
 layout: post
-guid: http://localhost:8888/wordpress/2013/12/27/20131220ml21ycnwl2lqhgdraljcdg7qv02kvj/
 permalink: /2013/12/27/20131220ml21ycnwl2lqhgdraljcdg7qv02kvj/
 categories:
   - Uncategorized

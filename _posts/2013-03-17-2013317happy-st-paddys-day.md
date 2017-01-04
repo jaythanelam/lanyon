@@ -1,10 +1,8 @@
 ---
-id: 1119
 title: 'Happy St. Paddy&#8217;s Day!'
-date: 2013-03-17T18:18:33+00:00
+date: 2013-03-17
 author: Jennifer
 layout: post
-guid: http://localhost:8888/wordpress/2013/03/17/2013317happy-st-paddys-day/
 permalink: /2013/03/17/2013317happy-st-paddys-day/
 categories:
   - Uncategorized

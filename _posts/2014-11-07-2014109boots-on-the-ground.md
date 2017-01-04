@@ -1,10 +1,8 @@
 ---
-id: 1612
 title: Boots on the ground
-date: 2014-11-07T20:25:00+00:00
+date: 2014-11-07
 author: Jennifer
 layout: post
-guid: http://localhost:8888/wordpress/2014/11/07/2014109boots-on-the-ground/
 permalink: /2014/11/07/2014109boots-on-the-ground/
 categories:
   - Uncategorized

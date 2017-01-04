@@ -1,10 +1,8 @@
 ---
-id: 750
 title: ok guys heres the play day pic
-date: 2006-12-06T22:20:12+00:00
+date: 2006-12-06
 author: Jennifer
 layout: post
-guid: http://localhost:8888/wordpress/2006/12/06/20061206ok-guys-heres-the-play-day-pics/
 permalink: /2006/12/06/20061206ok-guys-heres-the-play-day-pics/
 categories:
   - Baby E

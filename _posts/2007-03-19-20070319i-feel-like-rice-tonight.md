@@ -1,10 +1,8 @@
 ---
-id: 777
 title: I feel like rice tonight!!
-date: 2007-03-19T19:18:44+00:00
+date: 2007-03-19
 author: Jennifer
 layout: post
-guid: http://localhost:8888/wordpress/2007/03/19/20070319i-feel-like-rice-tonight/
 permalink: /2007/03/19/20070319i-feel-like-rice-tonight/
 categories:
   - Baby E

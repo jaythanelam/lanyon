@@ -1,10 +1,8 @@
 ---
-id: 779
 title: Just keep swimming, swimming, swimming
-date: 2007-03-23T14:57:33+00:00
+date: 2007-03-23
 author: Jennifer
 layout: post
-guid: http://localhost:8888/wordpress/2007/03/23/20070323just-keep-swimming-swimming-swimming/
 permalink: /2007/03/23/20070323just-keep-swimming-swimming-swimming/
 categories:
   - Uncategorized

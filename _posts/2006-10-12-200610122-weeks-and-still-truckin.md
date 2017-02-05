@@ -1,6 +1,6 @@
 ---
 title: 2 weeks and still truckin!
-date: 2006-10-12 00:00:00 Z
+date: '2006-10-12 00:00:00'
 permalink: "/2006/10/12/200610122-weeks-and-still-truckin/"
 categories:
 - Baby E

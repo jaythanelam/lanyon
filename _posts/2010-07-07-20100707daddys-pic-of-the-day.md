@@ -1,6 +1,6 @@
 ---
 title: Daddy&#8217;s pic of the day
-date: 2010-07-07 00:00:00 Z
+date: '2010-07-07 00:00:00'
 permalink: "/2010/07/07/20100707daddys-pic-of-the-day/"
 categories:
 - Picture of the Day

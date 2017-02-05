@@ -1,6 +1,6 @@
 ---
 title: riding the potomac &#8211; take 2
-date: 2012-09-01 00:00:00 Z
+date: '2012-09-01 00:00:00'
 permalink: "/2012/09/01/20120901riding-the-potomac-take-2/"
 categories:
 - Picture of the Day

@@ -1,6 +1,6 @@
 ---
 title: ahhhhh sun
-date: 2013-04-11 00:00:00 Z
+date: '2013-04-11 00:00:00'
 permalink: "/2013/04/11/2013410loving-the-sun-today/"
 categories:
 - Uncategorized

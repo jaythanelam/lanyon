@@ -1,6 +1,6 @@
 ---
 title: Why You Can&#8217;t Buy Creativity
-date: 2011-09-30 00:00:00 Z
+date: '2011-09-30 00:00:00'
 permalink: "/2011/09/30/20110930why-you-cant-buy-creativity/"
 categories:
 - JDE

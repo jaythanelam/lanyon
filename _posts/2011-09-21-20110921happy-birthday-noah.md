@@ -1,6 +1,6 @@
 ---
 title: Happy Birthday Noah!
-date: 2011-09-21 00:00:00 Z
+date: '2011-09-21 00:00:00'
 permalink: "/2011/09/21/20110921happy-birthday-noah/"
 categories:
 - Baby E

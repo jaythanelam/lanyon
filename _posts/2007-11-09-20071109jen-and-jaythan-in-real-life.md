@@ -1,6 +1,6 @@
 ---
 title: Jen and Jennifer&#8230;&#8230;&#8230; in real life :)
-date: 2007-11-09 00:00:00 Z
+date: '2007-11-09 00:00:00'
 permalink: "/2007/11/09/20071109jen-and-Jennifer-in-real-life/"
 categories:
 - Jennifer

@@ -1,6 +1,6 @@
 ---
 title: birthday at the harbor
-date: 2013-06-03 00:00:00 Z
+date: '2013-06-03 00:00:00'
 permalink: "/2013/06/03/201362birthday-at-the-harbor/"
 categories:
 - Uncategorized

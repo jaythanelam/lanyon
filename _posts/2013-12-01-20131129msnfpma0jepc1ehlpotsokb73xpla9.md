@@ -1,6 +1,6 @@
 ---
 title: Giving Thanks
-date: 2013-12-01 00:00:00 Z
+date: '2013-12-01 00:00:00'
 permalink: "/2013/12/01/20131129msnfpma0jepc1ehlpotsokb73xpla9/"
 categories:
 - Uncategorized

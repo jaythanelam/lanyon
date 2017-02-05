@@ -1,6 +1,6 @@
 ---
 title: Jellyfish has been aquired by Microsoft!
-date: 2007-10-11 00:00:00 Z
+date: '2007-10-11 00:00:00'
 permalink: "/2007/10/11/20071011jellyfish-has-been-aquired-by-microsoft/"
 categories:
 - Jennifer

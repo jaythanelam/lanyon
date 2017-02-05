@@ -1,6 +1,6 @@
 ---
 title: play on playa (part deux)
-date: 2007-01-14 00:00:00 Z
+date: '2007-01-14 00:00:00'
 permalink: "/2007/01/14/20070114play-on-playa-part-deux/"
 categories:
 - Baby E

@@ -1,6 +1,6 @@
 ---
 title: are ya using the whole fist doc?
-date: 2007-05-24 00:00:00 Z
+date: '2007-05-24 00:00:00'
 permalink: "/2007/05/24/20070524are-ya-using-the-whole-fist-doc/"
 categories:
 - Uncategorized

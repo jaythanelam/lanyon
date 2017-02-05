@@ -1,6 +1,6 @@
 ---
 title: radio flyyyyyyyyyer
-date: 2006-12-14 00:00:00 Z
+date: '2006-12-14 00:00:00'
 permalink: "/2006/12/14/20061214radio-flyyyyyyyyyer/"
 categories:
 - Baby E

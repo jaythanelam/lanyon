@@ -1,6 +1,6 @@
 ---
 title: i said it&#8217;s HOT HOT HOT!
-date: 2009-06-23 00:00:00 Z
+date: '2009-06-23 00:00:00'
 permalink: "/2009/06/23/20090623i-said-its-hot-hot-hot/"
 categories:
 - Picture of the Day

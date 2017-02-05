@@ -1,6 +1,6 @@
 ---
 title: the hamburglar hits the zoo!
-date: 2009-10-25 00:00:00 Z
+date: '2009-10-25 00:00:00'
 permalink: "/2009/10/25/20091025the-hamburglar-hits-the-zoo/"
 categories:
 - Picture of the Day

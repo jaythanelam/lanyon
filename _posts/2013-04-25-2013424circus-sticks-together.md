@@ -1,6 +1,6 @@
 ---
 title: Circus sticks together
-date: 2013-04-25 00:00:00 Z
+date: '2013-04-25 00:00:00'
 permalink: "/2013/04/25/2013424circus-sticks-together/"
 categories:
 - Uncategorized

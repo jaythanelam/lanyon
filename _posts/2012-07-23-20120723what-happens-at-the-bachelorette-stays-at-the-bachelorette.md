@@ -1,6 +1,6 @@
 ---
 title: what happens at the bachelorette, stays at the bachelorette ;);)
-date: 2012-07-23 00:00:00 Z
+date: '2012-07-23 00:00:00'
 permalink: "/2012/07/23/20120723what-happens-at-the-bachelorette-stays-at-the-bachelorette/"
 categories:
 - Jennifer

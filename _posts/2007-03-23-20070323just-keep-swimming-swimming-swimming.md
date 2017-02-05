@@ -1,6 +1,6 @@
 ---
 title: Just keep swimming, swimming, swimming
-date: 2007-03-23 00:00:00 Z
+date: '2007-03-23 00:00:00'
 permalink: "/2007/03/23/20070323just-keep-swimming-swimming-swimming/"
 categories:
 - Uncategorized

@@ -1,6 +1,6 @@
 ---
 title: CONSTANT VIGILANCE
-date: 2006-08-10 00:00:00 Z
+date: '2006-08-10 00:00:00'
 permalink: "/2006/08/10/20060810constant-vigilance/"
 categories:
 - Jennifer

@@ -1,6 +1,6 @@
 ---
 title: kickin&#8217; it at the union
-date: 2008-05-03 00:00:00 Z
+date: '2008-05-03 00:00:00'
 permalink: "/2008/05/03/20080503kickin-it-at-the-union/"
 categories:
 - Jennifer

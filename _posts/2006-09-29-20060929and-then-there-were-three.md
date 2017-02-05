@@ -1,6 +1,6 @@
 ---
 title: AND THEN THERE WERE THREE
-date: 2006-09-29 00:00:00 Z
+date: '2006-09-29 00:00:00'
 permalink: "/2006/09/29/20060929and-then-there-were-three/"
 categories:
 - Baby E

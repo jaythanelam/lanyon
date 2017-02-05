@@ -1,6 +1,6 @@
 ---
 title: Alternative Viewing
-date: 2006-12-05 00:00:00 Z
+date: '2006-12-05 00:00:00'
 permalink: "/2006/12/05/20061205alternative-viewing/"
 categories:
 - Jennifer

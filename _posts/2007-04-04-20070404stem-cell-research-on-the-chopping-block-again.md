@@ -1,6 +1,6 @@
 ---
 title: stem cell research on the chopping block again
-date: 2007-04-04 00:00:00 Z
+date: '2007-04-04 00:00:00'
 permalink: "/2007/04/04/20070404stem-cell-research-on-the-chopping-block-again/"
 categories:
 - Uncategorized

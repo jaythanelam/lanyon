@@ -1,6 +1,6 @@
 ---
 title: The Hunt for the Perfect Pumpkin!
-date: 2007-10-13 00:00:00 Z
+date: '2007-10-13 00:00:00'
 permalink: "/2007/10/13/20071013the-hunt-for-the-perfect-pumpkin/"
 categories:
 - Jennifer

@@ -1,6 +1,6 @@
 ---
 title: Can I Say HAPPY HOLIDAYS!?!
-date: 2008-01-30 00:00:00 Z
+date: '2008-01-30 00:00:00'
 permalink: "/2008/01/30/20080130can-i-say-happy-holidays/"
 categories:
 - Uncategorized

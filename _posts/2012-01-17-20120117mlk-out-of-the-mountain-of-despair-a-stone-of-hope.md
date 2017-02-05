@@ -1,6 +1,6 @@
 ---
 title: MLK  &#8220;Out of the mountain of despair a stone of hope&#8221;
-date: 2012-01-17 00:00:00 Z
+date: '2012-01-17 00:00:00'
 permalink: "/2012/01/17/20120117mlk-out-of-the-mountain-of-despair-a-stone-of-hope/"
 categories:
 - Jennifer

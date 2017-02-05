@@ -1,6 +1,6 @@
 ---
 title: goooooooaaaaaallllllll
-date: 2013-09-08 00:00:00 Z
+date: '2013-09-08 00:00:00'
 permalink: "/2013/09/08/201398goooooooaaaaaallllllll/"
 categories:
 - Uncategorized

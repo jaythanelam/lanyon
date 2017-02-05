@@ -1,6 +1,6 @@
 ---
 title: Noah&#8217;s birthday bash!
-date: 2011-09-30 00:00:00 Z
+date: '2011-09-30 00:00:00'
 permalink: "/2011/09/30/20110930noahs-birthday-bash/"
 categories:
 - Baby E

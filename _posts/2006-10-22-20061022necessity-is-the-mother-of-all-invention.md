@@ -1,6 +1,6 @@
 ---
 title: necessity is the mother of all invention
-date: 2006-10-22 00:00:00 Z
+date: '2006-10-22 00:00:00'
 permalink: "/2006/10/22/20061022necessity-is-the-mother-of-all-invention/"
 categories:
 - Baby E

@@ -1,6 +1,6 @@
 ---
 title: HALLOWEEN Parrrrr-ty
-date: 2007-10-30 00:00:00 Z
+date: '2007-10-30 00:00:00'
 permalink: "/2007/10/30/20071030halloween-parrrrr-ty/"
 categories:
 - Baby E

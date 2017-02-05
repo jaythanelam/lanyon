@@ -1,6 +1,6 @@
 ---
 title: the stem cell debate
-date: 2006-11-04 00:00:00 Z
+date: '2006-11-04 00:00:00'
 permalink: "/2006/11/04/20061104the-stem-cell-debate/"
 categories:
 - Jennifer

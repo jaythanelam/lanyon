@@ -1,6 +1,6 @@
 ---
 title: the house on Blake
-date: 2014-09-01 00:00:00 Z
+date: '2014-09-01 00:00:00'
 permalink: "/2014/09/01/201491the-house-on-blake/"
 categories:
 - Uncategorized

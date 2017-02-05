@@ -1,6 +1,6 @@
 ---
 title: Never going to liv it up
-date: 2014-05-12 00:00:00 Z
+date: '2014-05-12 00:00:00'
 permalink: "/2014/05/12/2014512never-going-to-liv-it-up/"
 categories:
 - Uncategorized

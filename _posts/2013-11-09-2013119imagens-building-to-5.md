@@ -1,6 +1,6 @@
 ---
 title: Imagen builds her way to 5
-date: 2013-11-09 00:00:00 Z
+date: '2013-11-09 00:00:00'
 permalink: "/2013/11/09/2013119imagens-building-to-5/"
 categories:
 - Uncategorized

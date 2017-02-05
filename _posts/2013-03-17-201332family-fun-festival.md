@@ -1,6 +1,6 @@
 ---
 title: Family Fun Festival
-date: 2013-03-17 00:00:00 Z
+date: '2013-03-17 00:00:00'
 permalink: "/2013/03/17/201332family-fun-festival/"
 categories:
 - Uncategorized

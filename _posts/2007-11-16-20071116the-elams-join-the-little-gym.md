@@ -1,6 +1,6 @@
 ---
 title: The Elam&#8217;s join &#8220;THE LITTLE GYM&#8221;
-date: 2007-11-16 00:00:00 Z
+date: '2007-11-16 00:00:00'
 permalink: "/2007/11/16/20071116the-elams-join-the-little-gym/"
 categories:
 - Uncategorized

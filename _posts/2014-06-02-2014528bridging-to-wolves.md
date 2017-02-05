@@ -1,6 +1,6 @@
 ---
 title: Bridging to wolves
-date: 2014-06-02 00:00:00 Z
+date: '2014-06-02 00:00:00'
 permalink: "/2014/06/02/2014528bridging-to-wolves/"
 categories:
 - Uncategorized

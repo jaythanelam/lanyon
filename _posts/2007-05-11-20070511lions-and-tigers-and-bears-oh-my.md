@@ -1,6 +1,6 @@
 ---
 title: lions and tigers and bears OH MY!
-date: 2007-05-11 00:00:00 Z
+date: '2007-05-11 00:00:00'
 permalink: "/2007/05/11/20070511lions-and-tigers-and-bears-oh-my/"
 categories:
 - Uncategorized

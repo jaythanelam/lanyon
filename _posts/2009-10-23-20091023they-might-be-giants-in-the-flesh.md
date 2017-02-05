@@ -1,6 +1,6 @@
 ---
 title: "&#8220;they might be giants&#8221; in the flesh!"
-date: 2009-10-23 00:00:00 Z
+date: '2009-10-23 00:00:00'
 permalink: "/2009/10/23/20091023they-might-be-giants-in-the-flesh/"
 categories:
 - Picture of the Day

@@ -1,6 +1,6 @@
 ---
 title: Back to my roots ;)
-date: 2010-07-22 00:00:00 Z
+date: '2010-07-22 00:00:00'
 permalink: "/2010/07/22/20100722do-blondes-have-more-fun/"
 categories:
 - Jennifer

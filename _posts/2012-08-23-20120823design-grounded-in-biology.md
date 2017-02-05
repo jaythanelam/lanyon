@@ -1,6 +1,6 @@
 ---
 title: Design; Grounded in biology
-date: 2012-08-23 00:00:00 Z
+date: '2012-08-23 00:00:00'
 permalink: "/2012/08/23/20120823design-grounded-in-biology/"
 categories:
 - JOINTLEY

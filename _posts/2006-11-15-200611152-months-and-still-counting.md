@@ -1,6 +1,6 @@
 ---
 title: 2 months and still counting
-date: 2006-11-15 00:00:00 Z
+date: '2006-11-15 00:00:00'
 permalink: "/2006/11/15/200611152-months-and-still-counting/"
 categories:
 - Baby E

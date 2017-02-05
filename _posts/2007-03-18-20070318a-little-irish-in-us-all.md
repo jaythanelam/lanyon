@@ -1,6 +1,6 @@
 ---
 title: A little irish in us all
-date: 2007-03-18 00:00:00 Z
+date: '2007-03-18 00:00:00'
 permalink: "/2007/03/18/20070318a-little-irish-in-us-all/"
 categories:
 - Jennifer

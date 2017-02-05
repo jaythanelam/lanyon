@@ -1,6 +1,6 @@
 ---
 title: everything you could want ON ICE!
-date: 2012-07-22 00:00:00 Z
+date: '2012-07-22 00:00:00'
 permalink: "/2012/07/22/20120722everything-you-could-want-on-ice/"
 categories:
 - Picture of the Day

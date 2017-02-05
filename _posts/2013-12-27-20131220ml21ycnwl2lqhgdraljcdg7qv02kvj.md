@@ -1,6 +1,6 @@
 ---
 title: culture
-date: 2013-12-27 00:00:00 Z
+date: '2013-12-27 00:00:00'
 permalink: "/2013/12/27/20131220ml21ycnwl2lqhgdraljcdg7qv02kvj/"
 categories:
 - Uncategorized

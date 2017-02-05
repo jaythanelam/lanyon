@@ -1,6 +1,6 @@
 ---
 title: reading, writing, arithmetic
-date: 2013-02-17 00:00:00 Z
+date: '2013-02-17 00:00:00'
 permalink: "/2013/02/17/2013216reading-writing-arithmetic/"
 categories:
 - Uncategorized

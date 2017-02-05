@@ -1,12 +1,13 @@
 ---
 title: ahhhhh sun
-date: 2013-04-11
+date: 2013-04-11 00:00:00 Z
+permalink: "/2013/04/11/2013410loving-the-sun-today/"
+categories:
+- Uncategorized
 author: Jennifer
 layout: post
-permalink: /2013/04/11/2013410loving-the-sun-today/
-categories:
-  - Uncategorized
 ---
+
 <div class="image-gallery-wrapper">
   <p>
     <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/51660d29e4b00ae130cd87f7/1365643545546/2013-04-10+16.20.37.jpg.37.jpg?format=original" />

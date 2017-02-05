@@ -1,15 +1,16 @@
 ---
 title: The first ever ED games!!
-date: 2014-06-02
+date: 2014-06-02 00:00:00 Z
+permalink: "/2014/06/02/2014528the-first-ever-ed-games/"
+categories:
+- Jennifer
+- Uncategorized
 author: Jennifer
 layout: post
-permalink: /2014/06/02/2014528the-first-ever-ed-games/
 passthrough_url:
-  - 'http://teamelam.com/#item=the-first-ever-ed-games'
-categories:
-  - Jennifer
-  - Uncategorized
+- http://teamelam.com/#item=the-first-ever-ed-games
 ---
+
 <div class="image-gallery-wrapper">
   <p>
     <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/538c99e2e4b006c49d7fc5a1/1401737160613/2014-05-24+20.12.55-2.jpg.55-2.jpg?format=original" />

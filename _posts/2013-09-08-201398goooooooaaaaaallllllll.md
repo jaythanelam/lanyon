@@ -1,12 +1,13 @@
 ---
 title: goooooooaaaaaallllllll
-date: 2013-09-08
+date: 2013-09-08 00:00:00 Z
+permalink: "/2013/09/08/201398goooooooaaaaaallllllll/"
+categories:
+- Uncategorized
 author: Jennifer
 layout: post
-permalink: /2013/09/08/201398goooooooaaaaaallllllll/
-categories:
-  - Uncategorized
 ---
+
 Ima&#8217;s first soccer game was AWESOME! &nbsp;She was a force on that field &#8211; all of her afternoon practices with her big brother &#8211; she bobbed, she weaved, she shot! &#8211; even when it wasn&#8217;t our goal 🙂 Super exciting stuff:):)
 
 <div class="image-gallery-wrapper">

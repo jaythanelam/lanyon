@@ -1,12 +1,13 @@
 ---
 title: National Harbor Dragon Regatta
-date: 2013-08-24
+date: 2013-08-24 00:00:00 Z
+permalink: "/2013/08/24/2013824national-harbor-dragon-regatta/"
+categories:
+- Uncategorized
 author: Jennifer
 layout: post
-permalink: /2013/08/24/2013824national-harbor-dragon-regatta/
-categories:
-  - Uncategorized
 ---
+
 Can I tell you how much I LOVE the National Harbor! &nbsp;Where else could we watch Dragons glide the water while sampling fresh peaches, peppers and fried oreos 🙂
 
 <div class="image-gallery-wrapper">

@@ -1,12 +1,13 @@
 ---
 title: Midieval Whaaaaaat!
-date: 2013-04-01
+date: 2013-04-01 00:00:00 Z
+permalink: "/2013/04/01/201341mideaval-whaaaaaat/"
+categories:
+- Uncategorized
 author: Jennifer
 layout: post
-permalink: /2013/04/01/201341mideaval-whaaaaaat/
-categories:
-  - Uncategorized
 ---
+
 The roar of the crowd, the&nbsp;thundering&nbsp;of hoves and the&nbsp;man I love gruffing with goblet in hand. &nbsp;That&#8217;s how we celebrated Popie&#8217;s birthday this year 🙂</p>
 
 <div class="image-gallery-wrapper">

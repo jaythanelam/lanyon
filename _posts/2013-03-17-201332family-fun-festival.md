@@ -1,12 +1,13 @@
 ---
 title: Family Fun Festival
-date: 2013-03-17
+date: 2013-03-17 00:00:00 Z
+permalink: "/2013/03/17/201332family-fun-festival/"
+categories:
+- Uncategorized
 author: Jennifer
 layout: post
-permalink: /2013/03/17/201332family-fun-festival/
-categories:
-  - Uncategorized
 ---
+
 This fun extravaganza is a production put on by Imas school to raise money for new programs. After we threw in for our 4 and you sprinkle in some nana popie&#8230; Now it&#8217;s a party 🙂</p>
 
 <div class="image-gallery-wrapper">

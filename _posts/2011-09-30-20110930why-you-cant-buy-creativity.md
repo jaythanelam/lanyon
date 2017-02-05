@@ -1,13 +1,14 @@
 ---
-title: 'Why You Can&#8217;t Buy Creativity'
-date: 2011-09-30
+title: Why You Can&#8217;t Buy Creativity
+date: 2011-09-30 00:00:00 Z
+permalink: "/2011/09/30/20110930why-you-cant-buy-creativity/"
+categories:
+- JDE
+- Uncategorized
 author: Jennifer
 layout: post
-permalink: /2011/09/30/20110930why-you-cant-buy-creativity/
-categories:
-  - JDE
-  - Uncategorized
 ---
+
 As Jennifer and I refine our ability to work with each other &#8211; as well as inspire new clients to hitch onto [jointley&#8217;s](http://www.jointley.com/) passions 🙂 I was inspired by this article and wanted to share.
 
 &nbsp;

@@ -1,13 +1,14 @@
 ---
 title: cell phone helpful hints
-date: 2007-03-18
+date: 2007-03-18 00:00:00 Z
+permalink: "/2007/03/18/20070318cell-phone-helpful-hints/"
+categories:
+- Jennifer
+- Uncategorized
 author: Jennifer
 layout: post
-permalink: /2007/03/18/20070318cell-phone-helpful-hints/
-categories:
-  - Jennifer
-  - Uncategorized
 ---
+
 I forwarded these tips to my fam but wanted to post them as well. Jennifer and i couldn&#8217;t believe some of these!
 
 THINGS YOU NEVER KNEW YOUR CELL PHONE COULD DO.

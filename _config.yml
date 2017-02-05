@@ -1,22 +1,23 @@
-# Permalinks
-permalink: pretty
-
-# Setup
+---
 title: Team Elam
-tagline: 'a family story'
-description: 'This is our story, our home away from home, and our adventures as a team. Welcome to Team Elam :)'
-url: http://teamelam.com
-baseurl: '/teamelam'
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+permalink: pretty
+tagline: a family story
+description: This is our story, our home away from home, and our adventures as a team.
+  Welcome to Team Elam :)
+url: https://twitter.com/mdo
+baseurl: "/teamelam"
 paginate: 5
-
-# About/contact
 author: Jennifer
 name: Jennifer Elam
-url: https://twitter.com/mdo
 email: jen@mommyknowsbest.co
-
-# Custom vars
 version: 1.0.0
-
-# Gems
-gems: [jekyll-paginate]
+gems:
+- jekyll-paginate

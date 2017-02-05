@@ -1,12 +1,13 @@
 ---
 title: Bridging to wolves
-date: 2014-06-02
+date: 2014-06-02 00:00:00 Z
+permalink: "/2014/06/02/2014528bridging-to-wolves/"
+categories:
+- Uncategorized
 author: Jennifer
 layout: post
-permalink: /2014/06/02/2014528bridging-to-wolves/
-categories:
-  - Uncategorized
 ---
+
 <div class="image-gallery-wrapper">
   <p>
     <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/538cc7cee4b0942d9665b924/1401735170163/2014-05-18+16.52.52.jpg.52.jpg?format=original" />

@@ -1,12 +1,13 @@
 ---
 title: THE Davenport Games
-date: 2013-06-01
+date: 2013-06-01 00:00:00 Z
+permalink: "/2013/06/01/2013531the-davenport-games/"
+categories:
+- Uncategorized
 author: Jennifer
 layout: post
-permalink: /2013/06/01/2013531the-davenport-games/
-categories:
-  - Uncategorized
 ---
+
 I love it. I love the hugs and the laughing. &nbsp;The joking, pushing, shoving, poking, commiserating, and togetherness. &nbsp;Most of all, I love the push. &nbsp;We all push to be there, to show up with our kids and toothbrushes and pillows so that for a weekend it&#8217;s only us and we&#8217;re all that matters.
 
 I love this family.

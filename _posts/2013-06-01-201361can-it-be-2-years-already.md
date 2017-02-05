@@ -1,12 +1,13 @@
 ---
 title: can it be 2 years already!
-date: 2013-06-01
+date: 2013-06-01 00:00:00 Z
+permalink: "/2013/06/01/201361can-it-be-2-years-already/"
+categories:
+- Uncategorized
 author: Jennifer
 layout: post
-permalink: /2013/06/01/201361can-it-be-2-years-already/
-categories:
-  - Uncategorized
 ---
+
 &nbsp;Harley Grace, our little June-bug, our shy, beautiful, adorable, delightful, little girl is turning 2 today&#8230; I&#8217;ll follow up with our celebration but wanted to post her shots for today 🙂
 
 <div class="image-gallery-wrapper">

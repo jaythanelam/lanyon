@@ -1,12 +1,13 @@
 ---
 title: birthday at the harbor
-date: 2013-06-03
+date: 2013-06-03 00:00:00 Z
+permalink: "/2013/06/03/201362birthday-at-the-harbor/"
+categories:
+- Uncategorized
 author: Jennifer
 layout: post
-permalink: /2013/06/03/201362birthday-at-the-harbor/
-categories:
-  - Uncategorized
 ---
+
 We celebrated Harley&#8217;s 2nd at the Gaylord Hotel in one of my favorite parts of DC National Harbor. It was a fantastic weekend filled with all of her favorite things; characters from Madagascar, play time at the pool, and dinner in the middle of it all. &nbsp;
 
 

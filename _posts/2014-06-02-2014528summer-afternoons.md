@@ -1,12 +1,13 @@
 ---
 title: summer afternoons
-date: 2014-06-02
+date: 2014-06-02 00:00:00 Z
+permalink: "/2014/06/02/2014528summer-afternoons/"
+categories:
+- Uncategorized
 author: Jennifer
 layout: post
-permalink: /2014/06/02/2014528summer-afternoons/
-categories:
-  - Uncategorized
 ---
+
 <div class="image-gallery-wrapper">
   <p>
     <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/538cc8b5e4b022cc4c7d1e54/1401738381860/2014-05-16+13.58.27.jpg.27.jpg?format=original" />

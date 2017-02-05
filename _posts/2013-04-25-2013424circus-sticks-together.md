@@ -1,12 +1,13 @@
 ---
 title: Circus sticks together
-date: 2013-04-25
+date: 2013-04-25 00:00:00 Z
+permalink: "/2013/04/25/2013424circus-sticks-together/"
+categories:
+- Uncategorized
 author: Jennifer
 layout: post
-permalink: /2013/04/25/2013424circus-sticks-together/
-categories:
-  - Uncategorized
 ---
+
 The circus has been an exciting &#8211; albeit exhausting &#8211; topic of conversation as the kids have been asking to go since we stepped out of our last circus over a year ago! so the lead up to Barnum and Bailey&#8217;s was out of control. The bigs went crazy for the tigers, nana and popie showered them with swag, and the dragon &#8211; the green eyed, fire breathing, smoke billowing dragon, this years theme, was spectacular!
 
 <div class="image-gallery-wrapper">

@@ -1,13 +1,14 @@
 ---
 title: Jellyfish has been aquired by Microsoft!
-date: 2007-10-11
+date: 2007-10-11 00:00:00 Z
+permalink: "/2007/10/11/20071011jellyfish-has-been-aquired-by-microsoft/"
+categories:
+- Jennifer
+- Uncategorized
 author: Jennifer
 layout: post
-permalink: /2007/10/11/20071011jellyfish-has-been-aquired-by-microsoft/
-categories:
-  - Jennifer
-  - Uncategorized
 ---
+
 No I didn&#8217;t make that title up. <a title="Jellyfish" target="_blank" href="http://www.jellyfish.com">Jellyfish</a>, the internet company I helped start nearly 2 years ago, has been bought by Microsoft. Its been an incredible journey. I feel honored to have worked with such an amazing team, many of which have become honorary Elamites!
 
 Straight from the <a target="_blank" href="http://blogs.msdn.com/livesearch/archive/2007/10/01/microsoft-acquires-jellyfish-com.aspx">mothership</a>:

@@ -1,6 +1,6 @@
 ---
 title: National Harbor Dragon Regatta
-date: '2013-08-24 00:00:00'
+date: 2013-08-24 00:00:00 Z
 permalink: "/2013/08/24/2013824national-harbor-dragon-regatta/"
 categories:
 - Uncategorized

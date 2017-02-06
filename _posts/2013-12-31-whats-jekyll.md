@@ -1,6 +1,6 @@
 ---
 title: What's Jekyll?
-date: '2013-12-31 00:00:00'
+date: 2013-12-31 00:00:00 Z
 layout: post
 ---
 

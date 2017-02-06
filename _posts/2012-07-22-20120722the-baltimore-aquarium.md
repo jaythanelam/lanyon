@@ -1,6 +1,6 @@
 ---
 title: the baltimore aquarium
-date: '2012-07-22 00:00:00'
+date: 2012-07-22 00:00:00 Z
 permalink: "/2012/07/22/20120722the-baltimore-aquarium/"
 categories:
 - Picture of the Day

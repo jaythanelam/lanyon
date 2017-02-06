@@ -1,6 +1,6 @@
 ---
 title: me you and the pumpkin makes three!!
-date: '2006-10-22 00:00:00'
+date: 2006-10-22 00:00:00 Z
 permalink: "/2006/10/22/20061022me-you-and-the-pumpkin-makes-three/"
 categories:
 - Baby E

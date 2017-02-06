@@ -1,6 +1,6 @@
 ---
 title: Ima takes the plunge!
-date: '2012-09-21 00:00:00'
+date: 2012-09-21 00:00:00 Z
 permalink: "/2012/09/21/20120921ima-takes-the-plunge/"
 categories:
 - Uncategorized

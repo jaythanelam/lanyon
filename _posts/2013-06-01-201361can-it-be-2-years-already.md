@@ -1,6 +1,6 @@
 ---
 title: can it be 2 years already!
-date: '2013-06-01 00:00:00'
+date: 2013-06-01 00:00:00 Z
 permalink: "/2013/06/01/201361can-it-be-2-years-already/"
 categories:
 - Uncategorized

@@ -1,6 +1,6 @@
 ---
 title: Boots on the ground
-date: '2014-11-07 00:00:00'
+date: 2014-11-07 00:00:00 Z
 permalink: "/2014/11/07/2014109boots-on-the-ground/"
 categories:
 - Uncategorized

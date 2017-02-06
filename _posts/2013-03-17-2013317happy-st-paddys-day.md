@@ -1,6 +1,6 @@
 ---
 title: Happy St. Paddy&#8217;s Day!
-date: '2013-03-17 00:00:00'
+date: 2013-03-17 00:00:00 Z
 permalink: "/2013/03/17/2013317happy-st-paddys-day/"
 categories:
 - Uncategorized

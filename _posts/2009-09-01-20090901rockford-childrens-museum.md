@@ -1,6 +1,6 @@
 ---
 title: rockford
-date: '2009-09-01 00:00:00'
+date: 2009-09-01 00:00:00 Z
 permalink: "/2009/09/01/20090901rockford-childrens-museum/"
 categories:
 - Picture of the Day

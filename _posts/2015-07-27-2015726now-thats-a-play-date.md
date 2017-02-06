@@ -1,6 +1,6 @@
 ---
 title: Now THAT&#8217;S a play date!
-date: '2015-07-27 00:00:00'
+date: 2015-07-27 00:00:00 Z
 permalink: "/2015/07/27/2015726now-thats-a-play-date/"
 categories:
 - Uncategorized

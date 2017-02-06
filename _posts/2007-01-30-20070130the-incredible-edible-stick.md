@@ -1,6 +1,6 @@
 ---
 title: the incredible -edible &#8211; stick
-date: '2007-01-30 00:00:00'
+date: 2007-01-30 00:00:00 Z
 permalink: "/2007/01/30/20070130the-incredible-edible-stick/"
 categories:
 - Baby E

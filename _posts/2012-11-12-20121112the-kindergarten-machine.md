@@ -1,6 +1,6 @@
 ---
 title: The kindergarten machine
-date: '2012-11-12 00:00:00'
+date: 2012-11-12 00:00:00 Z
 permalink: "/2012/11/12/20121112the-kindergarten-machine/"
 categories:
 - Baby E

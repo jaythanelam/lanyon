@@ -1,6 +1,6 @@
 ---
 title: I feel like rice tonight!!
-date: '2007-03-19 00:00:00'
+date: 2007-03-19 00:00:00 Z
 permalink: "/2007/03/19/20070319i-feel-like-rice-tonight/"
 categories:
 - Baby E

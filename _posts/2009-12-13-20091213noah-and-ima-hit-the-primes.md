@@ -1,6 +1,6 @@
 ---
 title: Noah and Ima hit the primes
-date: '2009-12-13 00:00:00'
+date: 2009-12-13 00:00:00 Z
 permalink: "/2009/12/13/20091213noah-and-ima-hit-the-primes/"
 categories:
 - Baby E

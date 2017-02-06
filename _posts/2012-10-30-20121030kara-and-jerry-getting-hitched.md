@@ -1,6 +1,6 @@
 ---
 title: Kara and Jerry getting hitched
-date: '2012-10-30 00:00:00'
+date: 2012-10-30 00:00:00 Z
 permalink: "/2012/10/30/20121030kara-and-jerry-getting-hitched/"
 categories:
 - Picture of the Day

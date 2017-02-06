@@ -1,6 +1,6 @@
 ---
 title: cell phone helpful hints
-date: '2007-03-18 00:00:00'
+date: 2007-03-18 00:00:00 Z
 permalink: "/2007/03/18/20070318cell-phone-helpful-hints/"
 categories:
 - Jennifer

@@ -1,6 +1,6 @@
 ---
 title: do i have some news for you!!!
-date: '2008-08-25 00:00:00'
+date: 2008-08-25 00:00:00 Z
 permalink: "/2008/08/25/20080825do-i-have-some-news-for-you/"
 categories:
 - Jennifer

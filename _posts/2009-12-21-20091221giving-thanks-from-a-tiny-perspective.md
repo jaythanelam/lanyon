@@ -1,6 +1,6 @@
 ---
 title: giving thanks &#8211; from a tiny perspective
-date: '2009-12-21 00:00:00'
+date: 2009-12-21 00:00:00 Z
 permalink: "/2009/12/21/20091221giving-thanks-from-a-tiny-perspective/"
 categories:
 - Picture of the Day

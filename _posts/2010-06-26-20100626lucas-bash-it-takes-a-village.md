@@ -1,6 +1,6 @@
 ---
 title: Luca&#8217;s bash &#8211; it takes a village&#8230;
-date: '2010-06-26 00:00:00'
+date: 2010-06-26 00:00:00 Z
 permalink: "/2010/06/26/20100626lucas-bash-it-takes-a-village/"
 categories:
 - Jennifer

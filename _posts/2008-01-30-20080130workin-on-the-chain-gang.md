@@ -1,6 +1,6 @@
 ---
 title: Workin&#8217; on the chain gang
-date: '2008-01-30 00:00:00'
+date: 2008-01-30 00:00:00 Z
 permalink: "/2008/01/30/20080130workin-on-the-chain-gang/"
 categories:
 - Uncategorized

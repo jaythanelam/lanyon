@@ -1,6 +1,6 @@
 ---
 title: THE Davenport Games
-date: '2013-06-01 00:00:00'
+date: 2013-06-01 00:00:00 Z
 permalink: "/2013/06/01/2013531the-davenport-games/"
 categories:
 - Uncategorized

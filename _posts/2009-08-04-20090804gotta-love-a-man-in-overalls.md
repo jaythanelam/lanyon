@@ -1,6 +1,6 @@
 ---
 title: gotta love a man in overalls
-date: '2009-08-04 00:00:00'
+date: 2009-08-04 00:00:00 Z
 permalink: "/2009/08/04/20090804gotta-love-a-man-in-overalls/"
 categories:
 - Picture of the Day

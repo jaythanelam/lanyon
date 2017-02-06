@@ -1,6 +1,6 @@
 ---
 title: reaching for the sky
-date: '2006-11-04 00:00:00'
+date: 2006-11-04 00:00:00 Z
 permalink: "/2006/11/04/20061104reaching-for-the-sky/"
 categories:
 - Baby E

@@ -1,6 +1,6 @@
 ---
 title: The DAVENPORT GAMES!
-date: '2007-05-31 00:00:00'
+date: 2007-05-31 00:00:00 Z
 permalink: "/2007/05/31/20070531the-davenport-games/"
 categories:
 - Uncategorized

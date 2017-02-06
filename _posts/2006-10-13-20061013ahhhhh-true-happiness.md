@@ -1,6 +1,6 @@
 ---
 title: ahhhhh true happiness
-date: '2006-10-13 00:00:00'
+date: 2006-10-13 00:00:00 Z
 permalink: "/2006/10/13/20061013ahhhhh-true-happiness/"
 categories:
 - Baby E

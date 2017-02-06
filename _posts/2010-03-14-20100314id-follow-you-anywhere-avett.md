@@ -1,6 +1,6 @@
 ---
 title: i&#8217;d follow you anywhere avett
-date: '2010-03-14 00:00:00'
+date: 2010-03-14 00:00:00 Z
 permalink: "/2010/03/14/20100314id-follow-you-anywhere-avett/"
 categories:
 - Jennifer

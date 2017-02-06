@@ -1,6 +1,6 @@
 ---
 title: Christmas on the farm
-date: '2014-12-25 00:00:00'
+date: 2014-12-25 00:00:00 Z
 permalink: "/2014/12/25/20141225christmas-on-the-farm/"
 categories:
 - Uncategorized

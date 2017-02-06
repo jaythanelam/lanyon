@@ -1,6 +1,6 @@
 ---
 title: ok guys heres the play day pic
-date: '2006-12-06 00:00:00'
+date: 2006-12-06 00:00:00 Z
 permalink: "/2006/12/06/20061206ok-guys-heres-the-play-day-pics/"
 categories:
 - Baby E

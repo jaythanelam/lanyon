@@ -1,6 +1,6 @@
 ---
 title: Midieval Whaaaaaat!
-date: '2013-04-01 00:00:00'
+date: 2013-04-01 00:00:00 Z
 permalink: "/2013/04/01/201341mideaval-whaaaaaat/"
 categories:
 - Uncategorized

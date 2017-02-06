@@ -1,6 +1,6 @@
 ---
 title: we put the JACK in jack-o-lantern!
-date: '2007-10-29 00:00:00'
+date: 2007-10-29 00:00:00 Z
 permalink: "/2007/10/29/20071029we-put-the-jack-in-jack-o-lantern/"
 categories:
 - Jennifer

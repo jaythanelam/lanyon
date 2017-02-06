@@ -1,6 +1,6 @@
 ---
 title: dad, this one&#8217;s for you
-date: '2006-10-22 00:00:00'
+date: 2006-10-22 00:00:00 Z
 permalink: "/2006/10/22/20061022dad-this-ones-for-you/"
 categories:
 - Baby E

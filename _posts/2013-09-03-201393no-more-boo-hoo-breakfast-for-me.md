@@ -1,6 +1,6 @@
 ---
 title: let the games begin!
-date: '2013-09-03 00:00:00'
+date: 2013-09-03 00:00:00 Z
 permalink: "/2013/09/03/201393no-more-boo-hoo-breakfast-for-me/"
 categories:
 - Uncategorized

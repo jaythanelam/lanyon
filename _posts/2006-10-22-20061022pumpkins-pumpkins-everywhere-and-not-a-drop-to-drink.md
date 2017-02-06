@@ -1,6 +1,6 @@
 ---
 title: pumpkins pumpkins everywhere
-date: '2006-10-22 00:00:00'
+date: 2006-10-22 00:00:00 Z
 permalink: "/2006/10/22/20061022pumpkins-pumpkins-everywhere-and-not-a-drop-to-drink/"
 categories:
 - Baby E

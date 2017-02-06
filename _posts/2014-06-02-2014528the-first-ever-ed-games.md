@@ -1,6 +1,6 @@
 ---
 title: The first ever ED games!!
-date: '2014-06-02 00:00:00'
+date: 2014-06-02 00:00:00 Z
 permalink: "/2014/06/02/2014528the-first-ever-ed-games/"
 categories:
 - Jennifer

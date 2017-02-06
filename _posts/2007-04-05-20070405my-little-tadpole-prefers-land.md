@@ -1,6 +1,6 @@
 ---
 title: my little tadpole prefers land
-date: '2007-04-05 00:00:00'
+date: 2007-04-05 00:00:00 Z
 permalink: "/2007/04/05/20070405my-little-tadpole-prefers-land/"
 categories:
 - Uncategorized

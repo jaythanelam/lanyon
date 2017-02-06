@@ -1,6 +1,6 @@
 ---
 title: school&#8217;s out for summer!
-date: '2014-06-26 00:00:00'
+date: 2014-06-26 00:00:00 Z
 permalink: "/2014/06/26/2014626schools-out-for-summer/"
 categories:
 - Uncategorized

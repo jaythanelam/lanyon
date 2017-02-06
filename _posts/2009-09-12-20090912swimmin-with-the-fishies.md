@@ -1,6 +1,6 @@
 ---
 title: swimmin&#8217; with the fishies
-date: '2009-09-12 00:00:00'
+date: 2009-09-12 00:00:00 Z
 permalink: "/2009/09/12/20090912swimmin-with-the-fishies/"
 categories:
 - Picture of the Day

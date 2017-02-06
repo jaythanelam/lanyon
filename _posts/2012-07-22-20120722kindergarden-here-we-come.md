@@ -1,6 +1,6 @@
 ---
 title: kindergarden here we come!
-date: '2012-07-22 00:00:00'
+date: 2012-07-22 00:00:00 Z
 permalink: "/2012/07/22/20120722kindergarden-here-we-come/"
 categories:
 - Picture of the Day

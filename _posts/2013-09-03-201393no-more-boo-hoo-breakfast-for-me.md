@@ -14,6 +14,6 @@ Here&#8217;s to a great day for him and a fun day with just the girls 😉
 
 <div class="image-gallery-wrapper">
   <p>
-    <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/5225dc69e4b0e56a47d7928b/1378214770928/2013-09-03+07.47.35.jpg.35.jpg?format=original" />
+    <img src="/teamelam/assets/images/let-the-games-begin/2013-09-03+07.47.35.jpg" />
   </p>
 </div>

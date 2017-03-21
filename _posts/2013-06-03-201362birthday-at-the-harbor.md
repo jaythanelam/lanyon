@@ -18,7 +18,7 @@ We celebrated Harley&#8217;s 2nd at the Gaylord Hotel in one of my favorite part
   </p>
 
   <p>
-    <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/51ab9125e4b0c3f4e31af206/1370221786486/2013-06-01+07.16.36.jpg.36.jpg?format=original" />
+    <img src="/teamelam/assets/images/birthday-at-the-harbor/2013-06-01+07.16.36.jpg" />
   </p>
 
   <p>
@@ -26,23 +26,23 @@ We celebrated Harley&#8217;s 2nd at the Gaylord Hotel in one of my favorite part
   </p>
 
   <p>
-    <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/51ab8dd8e4b04de64ca3aebb/1430547652449/2013-06-01+17.13.32.jpg.32.jpg?format=original" />
+    <img src="/teamelam/assets/images/birthday-at-the-harbor/2013-06-01+17.13.32.jpg" />
   </p>
 
   <p>
-    <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/51ab8db3e4b03d75a85a4925/1430547643423/2013-06-01+16.19.45.jpg.45.jpg?format=original" />
+    <img src="/teamelam/assets/images/birthday-at-the-harbor/2013-06-01+16.19.45.jpg" />
   </p>
 
   <p>
-    <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/51ab8eafe4b0c3f4e31aefea/1370219538085/2013-06-01+17.39.28.jpg.28.jpg?format=original" />
+    <img src="/teamelam/assets/images/birthday-at-the-harbor/2013-06-01+17.39.28.jpg" />
   </p>
 
   <p>
-    <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/51ab8e22e4b086ca8d21b91d/1430547660276/2013-06-01+17.15.42.jpg.42.jpg?format=original" />
+    <img src="/teamelam/assets/images/birthday-at-the-harbor/2013-06-01+17.15.42.jpg" />
   </p>
 
   <p>
-    <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/51ab8e45e4b0be9ceada9da1/1370394502973/2013-06-01+17.13.43.jpg.43.jpg?format=original" />
+    <img src="/teamelam/assets/images/birthday-at-the-harbor/2013-06-01+17.13.43.jpg" />
   </p>
 
   <p>
@@ -50,11 +50,11 @@ We celebrated Harley&#8217;s 2nd at the Gaylord Hotel in one of my favorite part
   </p>
 
   <p>
-    <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/51abe7d2e4b05f2b3948ecf1/1430547584022/2013-06-01+17.16.02.jpg.02.jpg?format=original" />
+    <img src="/teamelam/assets/images/birthday-at-the-harbor/2013-06-01+17.16.02.jpg" />
   </p>
 
   <p>
-    <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/51ab94c9e4b00e0c6e18dfd4/1430547653759/2013-06-01+19.09.56.jpg.56.jpg?format=original" />
+    <img src="/teamelam/assets/images/birthday-at-the-harbor/2013-06-01+19.09.56.jpg" />
   </p>
 
   <p>
@@ -62,27 +62,27 @@ We celebrated Harley&#8217;s 2nd at the Gaylord Hotel in one of my favorite part
   </p>
 
   <p>
-    <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/51ab9001e4b0f5d816d97274/1430547595050/2013-06-01+19.10.03.jpg.03.jpg?format=original" />
+    <img src="/teamelam/assets/images/birthday-at-the-harbor/2013-06-01+19.10.03.jpg" />
   </p>
 
   <p>
-    <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/51ab8e88e4b0f5d816d96ead/1370199554240/2013-06-01+17.23.18.jpg.18.jpg?format=original" />
+    <img src="/teamelam/assets/images/birthday-at-the-harbor/2013-06-01+17.23.18.jpg" />
   </p>
 
   <p>
-    <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/51ab8f4ee4b0f587785555e0/1370394949633/2013-06-01+17.41.34.jpg.34.jpg?format=original" />
+    <img src="/teamelam/assets/images/birthday-at-the-harbor/2013-06-01+17.41.34.jpg" />
   </p>
 
   <p>
-    <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/51ab8f9ce4b0f5d816d97227/1370395215964/2013-06-01+19.02.58.jpg.58.jpg?format=original" />
+    <img src="/teamelam/assets/images/birthday-at-the-harbor/2013-06-01+19.02.58.jpg" />
   </p>
 
   <p>
-    <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/51ab8fb4e4b0a13442087274/1370395320757/2013-06-01+19.03.01.jpg.01.jpg?format=original" />
+    <img src="/teamelam/assets/images/birthday-at-the-harbor/2013-06-01+19.03.01.jpg" />
   </p>
 
   <p>
-    <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/51ab9018e4b06ee5f32c7ee9/1430547589474/2013-06-01+19.10.22.jpg.22.jpg?format=original" />
+    <img src="/teamelam/assets/images/birthday-at-the-harbor/2013-06-01+19.10.22.jpg" />
   </p>
 
   <p>
@@ -90,23 +90,23 @@ We celebrated Harley&#8217;s 2nd at the Gaylord Hotel in one of my favorite part
   </p>
 
   <p>
-    <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/51ab9073e4b0b1ff3df26532/1370393990665/2013-06-02+09.16.38.jpg.38.jpg?format=original" />
+    <img src="/teamelam/assets/images/birthday-at-the-harbor/2013-06-02+09.16.38.jpg" />
   </p>
 
   <p>
-    <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/51ab90d2e4b0f5877855592c/1370395605286/2013-06-02+09.32.06.jpg.06.jpg?format=original" />
+    <img src="/teamelam/assets/images/birthday-at-the-harbor/2013-06-02+09.32.06.jpg" />
   </p>
 
   <p>
-    <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/51ab90bce4b06ee5f32c7f71/1370395772927/2013-06-02+09.27.31.jpg.31.jpg?format=original" />
+    <img src="/teamelam/assets/images/birthday-at-the-harbor/2013-06-02+09.27.31.jpg" />
   </p>
 
   <p>
-    <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/51ab90e5e4b0be9ceada9f5e/1370198255888/2013-06-02+09.54.52.jpg.52.jpg?format=original" />
+    <img src="/teamelam/assets/images/birthday-at-the-harbor/2013-06-02+09.54.52.jpg" />
   </p>
 
   <p>
-    <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/51ab9108e4b04c1c5aac1be4/1370198292883/2013-06-02+09.17.05.jpg.05.jpg?format=original" />
+    <img src="/teamelam/assets/images/birthday-at-the-harbor/2013-06-02+09.17.05.jpg" />
   </p>
 
   <p>
@@ -114,7 +114,7 @@ We celebrated Harley&#8217;s 2nd at the Gaylord Hotel in one of my favorite part
   </p>
 
   <p>
-    <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/51ab90a1e4b00e0c6e18d919/1370198195456/2013-06-02+09.17.53.jpg.53.jpg?format=original" />
+    <img src="/teamelam/assets/images/birthday-at-the-harbor/2013-06-02+09.17.53.jpg" />
   </p>
 
   <p>

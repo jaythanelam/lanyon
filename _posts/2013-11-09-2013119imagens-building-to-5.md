@@ -12,38 +12,38 @@ I have such a complicated little miss, so happily strategic with care to even th
 
 <div class="image-gallery-wrapper">
   <p>
-    <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/527e97b3e4b05645e633ea5e/1384028364595/2013-11-09+10.22.46.jpg.46.jpg?format=original" />
+    <img src="/teamelam/assets/images/Imagen-builds-her-way-to-5/2013-11-09+10.22.46.jpg" />
   </p>
 
   <p>
-    <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/527e97c0e4b0f7fd7249c72d/1384028428906/2013-11-09+10.05.24.jpg.24.jpg?format=original" />
+    <img src="/teamelam/assets/images/Imagen-builds-her-way-to-5/2013-11-09+10.05.24.jpg" />
   </p>
 
   <p>
-    <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/527e97d3e4b09c1d9bf00e8a/1430547587590/2013-11-09+10.14.17.jpg.17.jpg?format=original" />
+    <img src="/teamelam/assets/images/Imagen-builds-her-way-to-5/2013-11-09+10.14.17.jpg" />
   </p>
 
   <p>
-    <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/527e97e9e4b0eb00f5244261/1384028759825/2013-11-09+10.29.50.jpg.50.jpg?format=original" />
+    <img src="/teamelam/assets/images/Imagen-builds-her-way-to-5/2013-11-09+10.29.50.jpg" />
   </p>
 
   <p>
-    <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/527e97f5e4b00150d0363c90/1384028851800/2013-11-09+10.38.40.jpg.40.jpg?format=original" />
+    <img src="/teamelam/assets/images/Imagen-builds-her-way-to-5/2013-11-09+10.38.40.jpg" />
   </p>
 
   <p>
-    <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/527e9804e4b0a6d3b6cad529/1384028967365/2013-11-09+10.43.32.jpg.32.jpg?format=original" />
+    <img src="/teamelam/assets/images/Imagen-builds-her-way-to-5/2013-11-09+10.43.32.jpg" />
   </p>
 
   <p>
-    <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/527e9812e4b0bfa86bc140e7/1384029073653/2013-11-09+10.49.12.jpg.12.jpg?format=original" />
+    <img src="/teamelam/assets/images/Imagen-builds-her-way-to-5/2013-11-09+10.49.12.jpg" />
   </p>
 
   <p>
-    <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/527e981be4b0bffa49a95114/1384029150426/2013-11-09+10.49.26.jpg.26.jpg?format=original" />
+    <img src="/teamelam/assets/images/Imagen-builds-her-way-to-5/2013-11-09+10.49.26.jpg" />
   </p>
 
   <p>
-    <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/527e982be4b0213a915345e2/1384029220205/2013-11-09+11.59.04.jpg.04.jpg?format=original" />
+    <img src="/teamelam/assets/images/Imagen-builds-her-way-to-5/2013-11-09+11.59.04.jpg" />
   </p>
 </div>

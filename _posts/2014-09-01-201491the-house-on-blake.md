@@ -14,18 +14,18 @@ Here&#8217;s our first night in the house on Blake. &nbsp;Address updates coming
 
 <div class="image-gallery-wrapper">
   <p>
-    <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/5404deb4e4b00d99c7beafe2/1409605466298/2014-08-31+20.22.56.jpg.56.jpg?format=original" />
+    <img src="/teamelam/assets/images/the-house-on-Blake/2014-08-31+20.22.56.jpg" />
   </p>
 
   <p>
-    <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/5404dec5e4b00d99c7beb009/1409605510455/2014-08-31+20.13.30.jpg.30.jpg?format=original" />
+    <img src="/teamelam/assets/images/the-house-on-Blake/2014-08-31+20.13.30.jpg" />
   </p>
 
   <p>
-    <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/5404dec9e4b00d99c7beb017/1409605607751/2014-08-31+20.13.05.jpg.05.jpg?format=original" />
+    <img src="/teamelam/assets/images/the-house-on-Blake/2014-08-31+20.13.05.jpg" />
   </p>
 
   <p>
-    <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/5404decde4b00d99c7beb01a/1409605686570/2014-08-31+20.12.50.jpg.50.jpg?format=original" />
+    <img src="/teamelam/assets/images/the-house-on-Blake/2014-08-31+20.12.50.jpg" />
   </p>
 </div>

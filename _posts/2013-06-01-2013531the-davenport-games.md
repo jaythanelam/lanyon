@@ -26,55 +26,55 @@ I love this family.
   </p>
 
   <p>
-    <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/51a90d15e4b0c88fb1ff5d77/1370033441867/2013-05-25+10.25.45.jpg.45.jpg?format=original" />
+    <img src="/teamelam/assets/images/THE-Davenport-Games/2013-05-25+10.25.45.jpg" />
   </p>
 
   <p>
-    <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/51a90d59e4b0144f85a209ef/1370050293713/2013-05-25+11.16.24.jpg.24.jpg?format=original" />
+    <img src="/teamelam/assets/images/THE-Davenport-Games/2013-05-25+11.16.24.jpg" />
   </p>
 
   <p>
-    <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/51a90db0e4b0c88fb1ff5e32/1370050464429/2013-05-25+11.20.37.jpg.37.jpg?format=original" />
+    <img src="/teamelam/assets/images/THE-Davenport-Games/2013-05-25+11.20.37.jpg" />
   </p>
 
   <p>
-    <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/51a90e14e4b08b27fbbe5938/1370096374161/2013-05-25+11.22.59.jpg.59.jpg?format=original" />
+    <img src="/teamelam/assets/images/THE-Davenport-Games/2013-05-25+11.22.59.jpg" />
   </p>
 
   <p>
-    <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/51a90e40e4b0687273e30825/1370033741976/2013-05-25+11.27.27.jpg.27.jpg?format=original" />
+    <img src="/teamelam/assets/images/THE-Davenport-Games/2013-05-25+11.27.27.jpg" />
   </p>
 
   <p>
-    <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/51c269b0e4b0c2b46f4d56be/1371695549302/2013-05-25+13.16.10.jpg.10.jpg?format=original" />
+    <img src="/teamelam/assets/images/THE-Davenport-Games/2013-05-25+13.16.10.jpg" />
   </p>
 
   <p>
-    <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/51a90eade4b08b27fbbe5c7e/1370033851112/2013-05-25+13.16.43.jpg.43.jpg?format=original" />
+    <img src="/teamelam/assets/images/THE-Davenport-Games/2013-05-25+13.16.43.jpg" />
   </p>
 
   <p>
-    <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/51a90e79e4b02509ec244cf4/1370033793960/2013-05-25+11.36.35.jpg.35.jpg?format=original" />
+    <img src="/teamelam/assets/images/THE-Davenport-Games/2013-05-25+11.36.35.jpg" />
   </p>
 
   <p>
-    <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/51a90cdee4b02f202603ea2d/1370050067423/2013-05-24+17.45.11.jpg.11.jpg?format=original" />
+    <img src="/teamelam/assets/images/THE-Davenport-Games/2013-05-24+17.45.11.jpg" />
   </p>
 
   <p>
-    <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/51a90cb6e4b0a554a7731533/1370033346841/2013-05-24+16.50.31.jpg.31.jpg?format=original" />
+    <img src="/teamelam/assets/images/THE-Davenport-Games/2013-05-24+16.50.31.jpg" />
   </p>
 
   <p>
-    <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/51a90c9de4b05f6bb2452a03/1370049877529/2013-05-24+17.45.02.jpg.02.jpg?format=original" />
+    <img src="/teamelam/assets/images/THE-Davenport-Games/2013-05-24+17.45.02.jpg" />
   </p>
 
   <p>
-    <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/51a90cc8e4b0953aee4bd2b6/1371694637462/2013-05-24+17.02.30.jpg.30.jpg?format=original" />
+    <img src="/teamelam/assets/images/THE-Davenport-Games/2013-05-24+17.02.30.jpg" />
   </p>
 
   <p>
-    <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/51a90f1ee4b080a0192e4e21/1370050699600/2013-05-26+14.34.39.jpg.39.jpg?format=original" />
+    <img src="/teamelam/assets/images/THE-Davenport-Games/2013-05-26+14.34.39.jpg" />
   </p>
 
   <p>
@@ -82,27 +82,27 @@ I love this family.
   </p>
 
   <p>
-    <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/51a90fc6e4b07ac5e8bbdc56/1370054656581/2013-05-26+14.44.15.jpg.15.jpg?format=original" />
+    <img src="/teamelam/assets/images/THE-Davenport-Games/2013-05-26+14.44.15.jpg" />
   </p>
 
   <p>
-    <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/51a90f56e4b070cc6c923eac/1370034014611/2013-05-26+14.41.06.jpg.06.jpg?format=original" />
+    <img src="/teamelam/assets/images/THE-Davenport-Games/2013-05-26+14.41.06.jpg" />
   </p>
 
   <p>
-    <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/51a90f64e4b05f6bb2452fc1/1370050891082/2013-05-26+14.41.17.jpg.17.jpg?format=original" />
+    <img src="/teamelam/assets/images/THE-Davenport-Games/2013-05-26+14.41.17.jpg" />
   </p>
 
   <p>
-    <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/51a90fa7e4b02f35a70db048/1370096391216/2013-05-26+14.42.03.jpg.03.jpg?format=original" />
+    <img src="/teamelam/assets/images/THE-Davenport-Games/2013-05-26+14.42.03.jpg" />
   </p>
 
   <p>
-    <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/51a90fe5e4b05f6bb2453046/1370049011047/2013-05-26+14.44.16.jpg.16.jpg?format=original" />
+    <img src="/teamelam/assets/images/THE-Davenport-Games/2013-05-26+14.44.16.jpg" />
   </p>
 
   <p>
-    <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/51a91000e4b05f6bb2453064/1370047102569/2013-05-26+15.03.07.jpg.07.jpg?format=original" />
+    <img src="/teamelam/assets/images/THE-Davenport-Games/2013-05-26+15.03.07.jpg" />
   </p>
 
   <p>
@@ -110,47 +110,47 @@ I love this family.
   </p>
 
   <p>
-    <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/51a91042e4b0a554a7731958/1371694711976/2013-05-26+15.39.41.jpg.41.jpg?format=original" />
+    <img src="/teamelam/assets/images/THE-Davenport-Games/2013-05-26+15.39.41.jpg" />
   </p>
 
   <p>
-    <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/51a91056e4b0687273e30f5f/1371694779135/2013-05-26+15.40.28.jpg.28.jpg?format=original" />
+    <img src="/teamelam/assets/images/THE-Davenport-Games/2013-05-26+15.40.28.jpg" />
   </p>
 
   <p>
-    <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/51a9107ee4b070cc6c923fe5/1370034313362/2013-05-26+15.42.17.jpg.17.jpg?format=original" />
+    <img src="/teamelam/assets/images/THE-Davenport-Games/2013-05-26+15.42.17.jpg" />
   </p>
 
   <p>
-    <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/51a91068e4b02f35a70db1dc/1371694845548/2013-05-26+15.40.42.jpg.42.jpg?format=original" />
+    <img src="/teamelam/assets/images/THE-Davenport-Games/2013-05-26+15.40.42.jpg" />
   </p>
 
   <p>
-    <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/51a91018e4b08c2bc46db276/1370048486099/2013-05-26+15.03.12.jpg.12.jpg?format=original" />
+    <img src="/teamelam/assets/images/THE-Davenport-Games/2013-05-26+15.03.12.jpg" />
   </p>
 
   <p>
-    <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/51a90ec8e4b054d2e0977a74/1370095966701/2013-05-25+18.47.25.jpg.25.jpg?format=original" />
+    <img src="/teamelam/assets/images/THE-Davenport-Games/2013-05-25+18.47.25.jpg" />
   </p>
 
   <p>
-    <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/51a91123e4b0a554a7731a4b/1430547646344/2013-05-26+15.51.43.jpg.43.jpg?format=original" />
+    <img src="/teamelam/assets/images/THE-Davenport-Games/2013-05-26+15.51.43.jpg" />
   </p>
 
   <p>
-    <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/51a91110e4b0144f85a20dc9/1371694891571/2013-05-26+15.51.35.jpg.35.jpg?format=original" />
+    <img src="/teamelam/assets/images/THE-Davenport-Games/2013-05-26+15.51.35.jpg" />
   </p>
 
   <p>
-    <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/51a91132e4b02f35a70db2b3/1370034500599/2013-05-26+15.57.25.jpg.25.jpg?format=original" />
+    <img src="/teamelam/assets/images/THE-Davenport-Games/2013-05-26+15.57.25.jpg" />
   </p>
 
   <p>
-    <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/51a9116de4b02509ec244ffa/1370034551926/2013-05-26+16.57.41.jpg.41.jpg?format=original" />
+    <img src="/teamelam/assets/images/THE-Davenport-Games/2013-05-26+16.57.41.jpg" />
   </p>
 
   <p>
-    <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/51a91182e4b02509ec24501b/1370046263961/2013-05-26+17.07.36.jpg.36.jpg?format=original" />
+    <img src="/teamelam/assets/images/THE-Davenport-Games/2013-05-26+17.07.36.jpg" />
   </p>
 
   <p>
@@ -158,7 +158,7 @@ I love this family.
   </p>
 
   <p>
-    <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/51a91197e4b054d2e0977dc1/1370829391611/2013-05-26+17.08.07.jpg.07.jpg?format=original" />
+    <img src="/teamelam/assets/images/THE-Davenport-Games/2013-05-26+17.08.07.jpg" />
   </p>
 
   <p>
@@ -346,7 +346,7 @@ I love this family.
   </p>
 
   <p>
-    <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/51a911b2e4b080a0192e52d2/1370048797276/2013-05-26+17.16.45.jpg.45.jpg?format=original" />
+    <img src="/teamelam/assets/images/THE-Davenport-Games/2013-05-26+17.16.45.jpg" />
   </p>
 
   <p>

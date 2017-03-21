@@ -12,43 +12,43 @@ The circus has been an exciting &#8211; albeit exhausting &#8211; topic of conve
 
 <div class="image-gallery-wrapper">
   <p>
-    <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/51886181e4b0d557a72856f8/1430547599597/2013-04-20+14.42.49.jpg.49.jpg?format=original" />
+    <img src="/teamelam/assets/images/Circus-sticks-together/2013-04-20+14.42.49.jpg" />
   </p>
 
   <p>
-    <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/51886189e4b035414d37de0b/1367893707706/2013-04-20+12.25.57.jpg.57.jpg?format=original" />
+    <img src="/teamelam/assets/images/Circus-sticks-together/2013-04-20+12.25.57.jpg" />
   </p>
 
   <p>
-    <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/5188662ce4b0cac36db8a9c3/1430547590831/2013-04-20+11.37.30.jpg.30.jpg?format=original" />
+    <img src="/teamelam/assets/images/Circus-sticks-together/2013-04-20+11.37.30.jpg" />
   </p>
 
   <p>
-    <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/518865a8e4b035414d37e62f/1430547668627/2013-04-20+12.07.50.jpg.50.jpg?format=original" />
+    <img src="/teamelam/assets/images/Circus-sticks-together/2013-04-20+12.07.50.jpg" />
   </p>
 
   <p>
-    <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/518865c0e4b0124db671ab3a/1367893454099/2013-04-20+12.02.14.jpg.14.jpg?format=original" />
+    <img src="/teamelam/assets/images/Circus-sticks-together/2013-04-20+12.02.14.jpg" />
   </p>
 
   <p>
-    <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/518865d4e4b0c9fc9cb79ab0/1430547661006/2013-04-20+11.54.33.jpg.33.jpg?format=original" />
+    <img src="/teamelam/assets/images/Circus-sticks-together/2013-04-20+11.54.33.jpg" />
   </p>
 
   <p>
-    <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/518865e5e4b04186aaf7bebd/1430547673043/2013-04-20+11.48.56.jpg.56.jpg?format=original" />
+    <img src="/teamelam/assets/images/Circus-sticks-together/2013-04-20+11.48.56.jpg" />
   </p>
 
   <p>
-    <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/518865f6e4b0851a91a0cc2a/1430547641107/2013-04-20+11.46.38.jpg.38.jpg?format=original" />
+    <img src="/teamelam/assets/images/Circus-sticks-together/2013-04-20+11.46.38.jpg" />
   </p>
 
   <p>
-    <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/5188660ae4b00d33ee9c6c69/1367893527554/2013-04-20+11.40.17.jpg.17.jpg?format=original" />
+    <img src="/teamelam/assets/images/Circus-sticks-together/2013-04-20+11.40.17.jpg" />
   </p>
 
   <p>
-    <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/5188663ee4b091a1ff87b572/1367893578878/2013-04-20+11.27.02.jpg.02.jpg?format=original" />
+    <img src="/teamelam/assets/images/Circus-sticks-together/2013-04-20+11.27.02.jpg" />
   </p>
 
   <p>

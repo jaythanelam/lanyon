@@ -14,50 +14,50 @@ This trip we veered off down the Asian Trail which dumped us on the backend of t
 
 <div class="image-gallery-wrapper">
   <p>
-    <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/53ac6f56e4b0906e2b1d6e52/1403813375400/2014-06-26+12.45.38.jpg.38.jpg?format=original" />
+    <img src="/teamelam/assets/images/schooland-8217-s-out-for-summer/2014-06-26+12.45.38.jpg" />
   </p>
 
   <p>
-    <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/53ac6f82e4b0906e2b1d6e90/1403813474108/2014-06-26+10.25.13.jpg.13.jpg?format=original" />
+    <img src="/teamelam/assets/images/schooland-8217-s-out-for-summer/2014-06-26+10.25.13.jpg" />
   </p>
 
   <p>
-    <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/53ac6fbfe4b0906e2b1d6f34/1403813280551/2014-06-26+10.26.19.jpg.19.jpg?format=original" />
+    <img src="/teamelam/assets/images/schooland-8217-s-out-for-summer/2014-06-26+10.26.19.jpg" />
   </p>
 
   <p>
-    <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/53ac6fd5e4b0906e2b1d6f45/1403813545195/2014-06-26+10.53.34.jpg.34.jpg?format=original" />
+    <img src="/teamelam/assets/images/schooland-8217-s-out-for-summer/2014-06-26+10.53.34.jpg" />
   </p>
 
   <p>
-    <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/53ac6fdfe4b0906e2b1d6f50/1403814065382/2014-06-26+11.56.56.jpg.56.jpg?format=original" />
+    <img src="/teamelam/assets/images/schooland-8217-s-out-for-summer/2014-06-26+11.56.56.jpg" />
   </p>
 
   <p>
-    <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/53ac7099e4b0906e2b1d709b/1403813852435/2014-06-26+12.58.56.jpg.56.jpg?format=original" />
+    <img src="/teamelam/assets/images/schooland-8217-s-out-for-summer/2014-06-26+12.58.56.jpg" />
   </p>
 
   <p>
-    <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/53ac6ff6e4b0906e2b1d6f85/1403814201426/2014-06-26+12.44.01.jpg.01.jpg?format=original" />
+    <img src="/teamelam/assets/images/schooland-8217-s-out-for-summer/2014-06-26+12.44.01.jpg" />
   </p>
 
   <p>
-    <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/53ac7033e4b0906e2b1d7011/1403813764281/2014-06-26+12.57.21.jpg.21.jpg?format=original" />
+    <img src="/teamelam/assets/images/schooland-8217-s-out-for-summer/2014-06-26+12.57.21.jpg" />
   </p>
 
   <p>
-    <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/53ac703ee4b0906e2b1d702c/1403814452373/2014-06-26+13.03.00.jpg.00.jpg?format=original" />
+    <img src="/teamelam/assets/images/schooland-8217-s-out-for-summer/2014-06-26+13.03.00.jpg" />
   </p>
 
   <p>
-    <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/53ac7024e4b0906e2b1d6ffe/1403814298763/2014-06-26+12.45.29.jpg.29.jpg?format=original" />
+    <img src="/teamelam/assets/images/schooland-8217-s-out-for-summer/2014-06-26+12.45.29.jpg" />
   </p>
 
   <p>
-    <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/53ac703ae4b0906e2b1d7022/1403814376826/2014-06-26+13.01.25.jpg.25.jpg?format=original" />
+    <img src="/teamelam/assets/images/schooland-8217-s-out-for-summer/2014-06-26+13.01.25.jpg" />
   </p>
 
   <p>
-    <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/53ac702fe4b0906e2b1d7008/1403813657414/2014-06-26+12.57.21.jpg.21.jpg?format=original" />
+    <img src="/teamelam/assets/images/schooland-8217-s-out-for-summer/2014-06-26+12.57.21.jpg" />
   </p>
 </div>

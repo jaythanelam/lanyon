@@ -14,4 +14,4 @@ We&#8217;ve been to 3 other b-day party&#8217;s with another teddy-bear party co
 
 Our biggest focus right now is trying to get noah to put on the pounds! He&#8217;s pretty low on the overall scale so we&#8217;re eating, eating, eating! all the time!
 
-<img id="image168" alt="p5010004.jpg" src="http://static.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/50dfa5b1e4b0dc6320e0b688/1178864305000/?format=original" />
+<img id="image168" alt="p5010004.jpg" src="/teamelam/assets/images/lions-and-tigers-and-bears-OH-MY/1178864305000-missing.jpg />

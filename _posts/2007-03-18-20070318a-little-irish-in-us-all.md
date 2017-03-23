@@ -15,4 +15,4 @@ Celebration is big up here in the old country :). Jennifer, Noah, Jay, and I put
 
 [HAPPY ST. PADDY&#8217;S DAY!](http://www.flickr.com/photos/jenniferandJennifers_photos/ "HAPPY ST. PADDY'S DAY!")
 
-<img id="image140" alt="p3170004.jpg" src="http://static.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/50dfa5b1e4b0dc6320e0b66a/1174217127000/?format=original" />
+<img id="image140" alt="p3170004.jpg" src="/teamelam/assets/images/A-little-irish-in-us-all/1174217127000-missing.jpg />

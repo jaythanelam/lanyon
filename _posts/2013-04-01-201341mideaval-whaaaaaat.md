@@ -56,6 +56,6 @@ The roar of the crowd, the&nbsp;thundering&nbsp;of hoves and the&nbsp;man I love
   </p>
 
   <p>
-    <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/51b52a3fe4b047630359e392/1370827330461/P3300147.JPG" />
+    <img src="/teamelam/assets/images/Midieval-Whaaaaaat/P3300147.JPG" />
   </p>
 </div>

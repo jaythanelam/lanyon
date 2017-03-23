@@ -14,7 +14,7 @@ I love this family.
 
 <div class="image-gallery-wrapper">
   <p>
-    <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/51b52d77e4b0797e33009b0d/1370828156822/P5260597.JPG" />
+    <img src="/teamelam/assets/images/THE-Davenport-Games/P5260597.JPG" />
   </p>
 
   <p>
@@ -166,11 +166,11 @@ I love this family.
   </p>
 
   <p>
-    <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/51b52cc5e4b0de8ae9a82818/1370829552722/P5260489.JPG" />
+    <img src="/teamelam/assets/images/THE-Davenport-Games/P5260489.JPG" />
   </p>
 
   <p>
-    <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/51b52cd3e4b0830c27f545e4/1370829607228/P5260491.JPG" />
+    <img src="/teamelam/assets/images/THE-Davenport-Games/P5260491.JPG" />
   </p>
 
   <p>
@@ -234,23 +234,23 @@ I love this family.
   </p>
 
   <p>
-    <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/51b52d85e4b02def904b9990/1370828169203/P5260598.JPG" />
+    <img src="/teamelam/assets/images/THE-Davenport-Games/P5260598.JPG" />
   </p>
 
   <p>
-    <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/51b52d20e4b047630359ea3a/1371694950016/P5260512.JPG" />
+    <img src="/teamelam/assets/images/THE-Davenport-Games/P5260512.JPG" />
   </p>
 
   <p>
-    <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/51b52d05e4b0b6f800411547/1371695089223/P5260509.JPG" />
+    <img src="/teamelam/assets/images/THE-Davenport-Games/P5260509.JPG" />
   </p>
 
   <p>
-    <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/51b52d6ce4b0830562504cc9/1370828144375/P5260593.JPG" />
+    <img src="/teamelam/assets/images/THE-Davenport-Games/P5260593.JPG" />
   </p>
 
   <p>
-    <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/51b52d27e4b08f55af5286a5/1371695156551/P5260514.JPG" />
+    <img src="/teamelam/assets/images/THE-Davenport-Games/P5260514.JPG" />
   </p>
 
   <p>
@@ -338,11 +338,11 @@ I love this family.
   </p>
 
   <p>
-    <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/51b52d54e4b027c2e3e5d0a3/1370828120874/P5260569.JPG" />
+    <img src="/teamelam/assets/images/THE-Davenport-Games/P5260569.JPG" />
   </p>
 
   <p>
-    <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/51b52d48e4b047630359eb60/1370828108809/P5260564.JPG" />
+    <img src="/teamelam/assets/images/THE-Davenport-Games/P5260564.JPG" />
   </p>
 
   <p>
@@ -350,7 +350,7 @@ I love this family.
   </p>
 
   <p>
-    <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/51b52d63e4b0830562504cb8/1370828137257/P5260590.JPG" />
+    <img src="/teamelam/assets/images/THE-Davenport-Games/P5260590.JPG" />
   </p>
 
   <p>

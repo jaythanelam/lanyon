@@ -9,6 +9,6 @@ author: Jennifer
 layout: post
 ---
 
-<img title="hit_the_primes" height="713" alt="hit_the_primes" width="950" class="alignleft size-full wp-image-581" src="/teamelam/assets/images/Noah-and-Ima-hit-the-primes/1261381507000-missing.jpg />It has literally been a whirlwind of activity here since fall marked the opening season to our teams&#8217; birthdays, anniversaries, and holidays.  [Noah turned 3, Ima bounded into her first birthday](http://www.flickr.com/photos/jenniferandJennifers_photos/sets/72157622680241423/ "noah") and Jennifer celebrated his catch up &#8211; always having been a sucker for older women:) as he hit the big 2-9!!
+<img title="hit_the_primes" height="713" alt="hit_the_primes" width="950" class="alignleft size-full wp-image-581" src="/teamelam/assets/images/Noah-and-Ima-hit-the-primes/1261381507000-missing.jpg" />It has literally been a whirlwind of activity here since fall marked the opening season to our teams&#8217; birthdays, anniversaries, and holidays.  [Noah turned 3, Ima bounded into her first birthday](http://www.flickr.com/photos/jenniferandJennifers_photos/sets/72157622680241423/ "noah") and Jennifer celebrated his catch up &#8211; always having been a sucker for older women:) as he hit the big 2-9!!
 
 Coming into the home stretch i keep reminding myself to take a moment each day to cherish these fleeting memories.  Ima took her first steps last week.  Noah looked into the sky and stood for a full minute just to feel a snowflake land on his skin. So many opportunities to celebrate!

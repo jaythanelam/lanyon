@@ -11,4 +11,4 @@ layout: post
 
 Yep, Noah is starting to master hand eye coordination and he&#8217;s reaching for everything!! Check it out!!
 
-<img id="image61" alt="pod_11306.jpg" src="/teamelam/assets/images/reaching-for-the-sky/1162653574000-missing.jpg />
+<img id="image61" alt="pod_11306.jpg" src="/teamelam/assets/images/reaching-for-the-sky/1162653574000-missing.jpg" />

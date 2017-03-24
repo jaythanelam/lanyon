@@ -9,6 +9,6 @@ author: Jennifer
 layout: post
 ---
 
-[<img title="IMG_1854" height="200" alt="" width="310" class="alignnone size-thumbnail wp-image-1652" src="/teamelam/assets/images/kindergarden-here-we-come/1342999387000-missing.jpg />](http://www.flickr.com/photos/jenniferandJennifers_photos/sets/72157630705576512/)
+[<img title="IMG_1854" height="200" alt="" width="310" class="alignnone size-thumbnail wp-image-1652" src="/teamelam/assets/images/kindergarden-here-we-come/1342999387000-missing.jpg" />](http://www.flickr.com/photos/jenniferandJennifers_photos/sets/72157630705576512/)
 
 [Noah&#8217;s first real check up, where I was just a spectator, eyes, ears, height, weight, and shots &#8211; all checked out 🙂](http://www.flickr.com/photos/jenniferandJennifers_photos/sets/72157630705576512/)

@@ -14,4 +14,4 @@ so&#8230;. HAPPY NEW YEAR FAMILY!!! May 08&#8242; be filled with new experiences
 
 Cheers to a new year and another chance for us to get it right. ~Oprah Winfrey!
 
- <img id="image220" alt="new-years.jpg" src="/teamelam/assets/images/Can-I-Say-HAPPY-HOLIDAYS/1201721441000-missing.jpg />
+ <img id="image220" alt="new-years.jpg" src="/teamelam/assets/images/Can-I-Say-HAPPY-HOLIDAYS/1201721441000-missing.jpg" />

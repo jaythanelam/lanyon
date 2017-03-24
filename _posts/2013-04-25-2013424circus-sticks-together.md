@@ -52,22 +52,22 @@ The circus has been an exciting &#8211; albeit exhausting &#8211; topic of conve
   </p>
 
   <p>
-    <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/51b52b35e4b08f55af5283cb/1370827578345/P4200383.JPG" />
+    <img src="/teamelam/assets/images/Circus-sticks-together/P4200383.JPG" />
   </p>
 
   <p>
-    <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/51b52b6ee4b087d92d563f58/1370827634139/P4200388.JPG" />
+    <img src="/teamelam/assets/images/Circus-sticks-together/P4200388.JPG" />
   </p>
 
   <p>
-    <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/51b52b80e4b070ccb3197bf1/1370827652359/P4200400.JPG" />
+    <img src="/teamelam/assets/images/Circus-sticks-together/P4200400.JPG" />
   </p>
 
   <p>
-    <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/51b52b8be4b047630359e526/1370827664281/P4200401.JPG" />
+    <img src="/teamelam/assets/images/Circus-sticks-together/P4200401.JPG" />
   </p>
 
   <p>
-    <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/51b52bbde4b0797e330096c0/1370827713728/P4200422.JPG" />
+    <img src="/teamelam/assets/images/Circus-sticks-together/P4200422.JPG" />
   </p>
 </div>

@@ -9,4 +9,4 @@ author: Jennifer
 layout: post
 ---
 
-<a rel="attachment wp-att-434" href="http://static.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/50dfa5efe4b0dc6320e0bd11/1356834287120/?format=original"><img title="imafish" height="434" alt="" width="590" class="alignleft size-full wp-image-434" src="http://static.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/50dfa5b1e4b0dc6320e0b720/1252825844000/?format=original" /></a>we drove to the far reaches of wisconsin in order to explore the fishes.
+<a rel="attachment wp-att-434" href="/teamelam/assets/images/swimminand-8217-with-the-fishies/1252825844000-missing.jpg" /></a>we drove to the far reaches of wisconsin in order to explore the fishes.

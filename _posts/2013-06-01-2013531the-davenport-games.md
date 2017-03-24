@@ -22,7 +22,7 @@ I love this family.
   </p>
 
   <p>
-    <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/51adefb3e4b0be3c52dba928/1370353587887/images.jpeg" />
+    <img src="/teamelam/assets/images/THE-Davenport-Games/images.jpeg" />
   </p>
 
   <p>

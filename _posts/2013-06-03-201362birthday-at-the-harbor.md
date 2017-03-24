@@ -22,7 +22,7 @@ We celebrated Harley&#8217;s 2nd at the Gaylord Hotel in one of my favorite part
   </p>
 
   <p>
-    <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/51adf514e4b0be3c52dbb1eb/1370354964500/images-4.jpeg" />
+    <img src="/teamelam/assets/images/birthday-at-the-harbor/images-4.jpeg" />
   </p>
 
   <p>
@@ -46,7 +46,7 @@ We celebrated Harley&#8217;s 2nd at the Gaylord Hotel in one of my favorite part
   </p>
 
   <p>
-    <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/51adf531e4b08dbef90aca41/1370354994275/images-8.jpeg" />
+    <img src="/teamelam/assets/images/birthday-at-the-harbor/images-8.jpeg" />
   </p>
 
   <p>
@@ -58,7 +58,7 @@ We celebrated Harley&#8217;s 2nd at the Gaylord Hotel in one of my favorite part
   </p>
 
   <p>
-    <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/51adf520e4b0ee05f17ace8c/1370354977602/images-6.jpeg" />
+    <img src="/teamelam/assets/images/birthday-at-the-harbor/images-6.jpeg" />
   </p>
 
   <p>
@@ -86,7 +86,7 @@ We celebrated Harley&#8217;s 2nd at the Gaylord Hotel in one of my favorite part
   </p>
 
   <p>
-    <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/51adf50de4b0eab971c6beeb/1370354958488/images-3.jpeg" />
+    <img src="/teamelam/assets/images/birthday-at-the-harbor/images-3.jpeg" />
   </p>
 
   <p>
@@ -118,7 +118,7 @@ We celebrated Harley&#8217;s 2nd at the Gaylord Hotel in one of my favorite part
   </p>
 
   <p>
-    <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/51adf527e4b0cd7735350e0e/1370354983724/images-7.jpeg" />
+    <img src="/teamelam/assets/images/birthday-at-the-harbor/images-7.jpeg" />
   </p>
 
   <p>
@@ -138,6 +138,6 @@ We celebrated Harley&#8217;s 2nd at the Gaylord Hotel in one of my favorite part
   </p>
 
   <p>
-    <img src="http://static1.squarespace.com/static/50db6bb3e4b015296cd43789/50dfa5b1e4b0dc6320e0b5ea/51adf506e4b0ae1d9bf68a49/1370354950506/images-2.jpeg" />
+    <img src="/teamelam/assets/images/birthday-at-the-harbor/images-2.jpeg" />
   </p>
 </div>

@@ -12,8 +12,8 @@ permalink: pretty
 tagline: a family story
 description: This is our story, our home away from home, and our adventures as a team.
   Welcome to Team Elam :)
-url: https://twitter.com/mdo
-baseurl: "/teamelam"
+url: 
+baseurl: ""
 paginate: 5
 author: Jennifer
 name: Jennifer Elam

@@ -8,12 +8,12 @@ collections:
   uploads:
     title: Uploads
     output: true
-permalink: pretty
+permalink: date
 tagline: a family story
 description: This is our story, our home away from home, and our adventures as a team.
   Welcome to Team Elam :)
 url:
-baseurl: ''
+baseurl: '/teamelam'
 paginate: 5
 author: Jennifer
 name: Jennifer Elam

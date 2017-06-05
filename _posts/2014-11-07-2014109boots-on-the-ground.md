@@ -14,6 +14,6 @@ These moments I know &#8211;&nbsp;I KNOW are flying. These small victories where
 
 <div class="image-gallery-wrapper">
   <p>
-    <img src="/teamelam/assets/images/Boots-on-the-ground/2014-11-24+15.58.11.jpg" />
+    <img src="/assets/images/Boots-on-the-ground/2014-11-24+15.58.11.jpg" />
   </p>
 </div>

@@ -12,38 +12,38 @@ I have such a complicated little miss, so happily strategic with care to even th
 
 <div class="image-gallery-wrapper">
   <p>
-    <img src="/teamelam/assets/images/Imagen-builds-her-way-to-5/2013-11-09+10.22.46.jpg" />
+    <img src="/assets/images/Imagen-builds-her-way-to-5/2013-11-09+10.22.46.jpg" />
   </p>
 
   <p>
-    <img src="/teamelam/assets/images/Imagen-builds-her-way-to-5/2013-11-09+10.05.24.jpg" />
+    <img src="/assets/images/Imagen-builds-her-way-to-5/2013-11-09+10.05.24.jpg" />
   </p>
 
   <p>
-    <img src="/teamelam/assets/images/Imagen-builds-her-way-to-5/2013-11-09+10.14.17.jpg" />
+    <img src="/assets/images/Imagen-builds-her-way-to-5/2013-11-09+10.14.17.jpg" />
   </p>
 
   <p>
-    <img src="/teamelam/assets/images/Imagen-builds-her-way-to-5/2013-11-09+10.29.50.jpg" />
+    <img src="/assets/images/Imagen-builds-her-way-to-5/2013-11-09+10.29.50.jpg" />
   </p>
 
   <p>
-    <img src="/teamelam/assets/images/Imagen-builds-her-way-to-5/2013-11-09+10.38.40.jpg" />
+    <img src="/assets/images/Imagen-builds-her-way-to-5/2013-11-09+10.38.40.jpg" />
   </p>
 
   <p>
-    <img src="/teamelam/assets/images/Imagen-builds-her-way-to-5/2013-11-09+10.43.32.jpg" />
+    <img src="/assets/images/Imagen-builds-her-way-to-5/2013-11-09+10.43.32.jpg" />
   </p>
 
   <p>
-    <img src="/teamelam/assets/images/Imagen-builds-her-way-to-5/2013-11-09+10.49.12.jpg" />
+    <img src="/assets/images/Imagen-builds-her-way-to-5/2013-11-09+10.49.12.jpg" />
   </p>
 
   <p>
-    <img src="/teamelam/assets/images/Imagen-builds-her-way-to-5/2013-11-09+10.49.26.jpg" />
+    <img src="/assets/images/Imagen-builds-her-way-to-5/2013-11-09+10.49.26.jpg" />
   </p>
 
   <p>
-    <img src="/teamelam/assets/images/Imagen-builds-her-way-to-5/2013-11-09+11.59.04.jpg" />
+    <img src="/assets/images/Imagen-builds-her-way-to-5/2013-11-09+11.59.04.jpg" />
   </p>
 </div>

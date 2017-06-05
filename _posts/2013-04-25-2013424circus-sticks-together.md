@@ -12,62 +12,62 @@ The circus has been an exciting &#8211; albeit exhausting &#8211; topic of conve
 
 <div class="image-gallery-wrapper">
   <p>
-    <img src="/teamelam/assets/images/Circus-sticks-together/2013-04-20+14.42.49.jpg" />
+    <img src="/assets/images/Circus-sticks-together/2013-04-20+14.42.49.jpg" />
   </p>
 
   <p>
-    <img src="/teamelam/assets/images/Circus-sticks-together/2013-04-20+12.25.57.jpg" />
+    <img src="/assets/images/Circus-sticks-together/2013-04-20+12.25.57.jpg" />
   </p>
 
   <p>
-    <img src="/teamelam/assets/images/Circus-sticks-together/2013-04-20+11.37.30.jpg" />
+    <img src="/assets/images/Circus-sticks-together/2013-04-20+11.37.30.jpg" />
   </p>
 
   <p>
-    <img src="/teamelam/assets/images/Circus-sticks-together/2013-04-20+12.07.50.jpg" />
+    <img src="/assets/images/Circus-sticks-together/2013-04-20+12.07.50.jpg" />
   </p>
 
   <p>
-    <img src="/teamelam/assets/images/Circus-sticks-together/2013-04-20+12.02.14.jpg" />
+    <img src="/assets/images/Circus-sticks-together/2013-04-20+12.02.14.jpg" />
   </p>
 
   <p>
-    <img src="/teamelam/assets/images/Circus-sticks-together/2013-04-20+11.54.33.jpg" />
+    <img src="/assets/images/Circus-sticks-together/2013-04-20+11.54.33.jpg" />
   </p>
 
   <p>
-    <img src="/teamelam/assets/images/Circus-sticks-together/2013-04-20+11.48.56.jpg" />
+    <img src="/assets/images/Circus-sticks-together/2013-04-20+11.48.56.jpg" />
   </p>
 
   <p>
-    <img src="/teamelam/assets/images/Circus-sticks-together/2013-04-20+11.46.38.jpg" />
+    <img src="/assets/images/Circus-sticks-together/2013-04-20+11.46.38.jpg" />
   </p>
 
   <p>
-    <img src="/teamelam/assets/images/Circus-sticks-together/2013-04-20+11.40.17.jpg" />
+    <img src="/assets/images/Circus-sticks-together/2013-04-20+11.40.17.jpg" />
   </p>
 
   <p>
-    <img src="/teamelam/assets/images/Circus-sticks-together/2013-04-20+11.27.02.jpg" />
+    <img src="/assets/images/Circus-sticks-together/2013-04-20+11.27.02.jpg" />
   </p>
 
   <p>
-    <img src="/teamelam/assets/images/Circus-sticks-together/P4200383.JPG" />
+    <img src="/assets/images/Circus-sticks-together/P4200383.JPG" />
   </p>
 
   <p>
-    <img src="/teamelam/assets/images/Circus-sticks-together/P4200388.JPG" />
+    <img src="/assets/images/Circus-sticks-together/P4200388.JPG" />
   </p>
 
   <p>
-    <img src="/teamelam/assets/images/Circus-sticks-together/P4200400.JPG" />
+    <img src="/assets/images/Circus-sticks-together/P4200400.JPG" />
   </p>
 
   <p>
-    <img src="/teamelam/assets/images/Circus-sticks-together/P4200401.JPG" />
+    <img src="/assets/images/Circus-sticks-together/P4200401.JPG" />
   </p>
 
   <p>
-    <img src="/teamelam/assets/images/Circus-sticks-together/P4200422.JPG" />
+    <img src="/assets/images/Circus-sticks-together/P4200422.JPG" />
   </p>
 </div>

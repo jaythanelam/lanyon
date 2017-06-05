@@ -8,4 +8,4 @@ author: Jennifer
 layout: post
 ---
 
-![](/teamelam/assets/images/Watch-as-the-tiger-stalks-his-prey/iphone-20130424224011-0.jpg)
+![](/assets/images/Watch-as-the-tiger-stalks-his-prey/iphone-20130424224011-0.jpg)

@@ -8,6 +8,6 @@ author: Jennifer
 layout: post
 ---
 
-[<img alt="20121027-114754.jpg" class="alignnone size-full" src="/teamelam/assets/images/Ima-takes-the-plunge/1351338473000-missing.jpg" />](/teamelam/assets/images/Ima-takes-the-plunge/1351338473000-missing.jpg)
+[<img alt="20121027-114754.jpg" class="alignnone size-full" src="/assets/images/Ima-takes-the-plunge/1351338473000-missing.jpg" />](/assets/images/Ima-takes-the-plunge/1351338473000-missing.jpg)
 
 Imagen reluctantly started preschool this week! I am hoping this gives her a place where all of her accolades and strengths can thrive as she is not known as the middle child or the big sister, but only as Ima. So far, she is resistant LOL

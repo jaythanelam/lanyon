@@ -13,78 +13,78 @@ passthrough_url:
 
 <div class="image-gallery-wrapper">
   <p>
-    <img src="/teamelam/assets/images/The-first-ever-ED-games/2014-05-24+20.12.55-2.jpg" />
+    <img src="/assets/images/The-first-ever-ED-games/2014-05-24+20.12.55-2.jpg" />
   </p>
 
   <p>
-    <img src="/teamelam/assets/images/The-first-ever-ED-games/2014-05-24+19.27.56.jpg" />
+    <img src="/assets/images/The-first-ever-ED-games/2014-05-24+19.27.56.jpg" />
   </p>
 
   <p>
-    <img src="/teamelam/assets/images/The-first-ever-ED-games/2014-05-24+18.11.16.jpg" />
+    <img src="/assets/images/The-first-ever-ED-games/2014-05-24+18.11.16.jpg" />
   </p>
 
   <p>
-    <img src="/teamelam/assets/images/The-first-ever-ED-games/2014-05-24+17.09.58-1.jpg" />
+    <img src="/assets/images/The-first-ever-ED-games/2014-05-24+17.09.58-1.jpg" />
   </p>
 
   <p>
-    <img src="/teamelam/assets/images/The-first-ever-ED-games/2014-05-24+17.01.26.jpg" />
+    <img src="/assets/images/The-first-ever-ED-games/2014-05-24+17.01.26.jpg" />
   </p>
 
   <p>
-    <img src="/teamelam/assets/images/The-first-ever-ED-games/2014-05-24+17.08.16.jpg" />
+    <img src="/assets/images/The-first-ever-ED-games/2014-05-24+17.08.16.jpg" />
   </p>
 
   <p>
-    <img src="/teamelam/assets/images/The-first-ever-ED-games/2014-05-23+11.46.31.jpg" />
+    <img src="/assets/images/The-first-ever-ED-games/2014-05-23+11.46.31.jpg" />
   </p>
 
   <p>
-    <img src="/teamelam/assets/images/The-first-ever-ED-games/2014-05-23+11.45.34.jpg" />
+    <img src="/assets/images/The-first-ever-ED-games/2014-05-23+11.45.34.jpg" />
   </p>
 
   <p>
-    <img src="/teamelam/assets/images/The-first-ever-ED-games/2014-05-23+11.45.20.jpg" />
+    <img src="/assets/images/The-first-ever-ED-games/2014-05-23+11.45.20.jpg" />
   </p>
 
   <p>
-    <img src="/teamelam/assets/images/The-first-ever-ED-games/2014-05-23+11.42.23.jpg" />
+    <img src="/assets/images/The-first-ever-ED-games/2014-05-23+11.42.23.jpg" />
   </p>
 
   <p>
-    <img src="/teamelam/assets/images/The-first-ever-ED-games/2014-05-23+11.29.38.jpg" />
+    <img src="/assets/images/The-first-ever-ED-games/2014-05-23+11.29.38.jpg" />
   </p>
 
   <p>
-    <img src="/teamelam/assets/images/The-first-ever-ED-games/2014-05-23+11.39.30.jpg" />
+    <img src="/assets/images/The-first-ever-ED-games/2014-05-23+11.39.30.jpg" />
   </p>
 
   <p>
-    <img src="/teamelam/assets/images/The-first-ever-ED-games/2014-05-22+15.33.01.jpg" />
+    <img src="/assets/images/The-first-ever-ED-games/2014-05-22+15.33.01.jpg" />
   </p>
 
   <p>
-    <img src="/teamelam/assets/images/The-first-ever-ED-games/2014-05-22+10.39.28.jpg" />
+    <img src="/assets/images/The-first-ever-ED-games/2014-05-22+10.39.28.jpg" />
   </p>
 
   <p>
-    <img src="/teamelam/assets/images/The-first-ever-ED-games/2014-05-21+12.18.19.jpg" />
+    <img src="/assets/images/The-first-ever-ED-games/2014-05-21+12.18.19.jpg" />
   </p>
 
   <p>
-    <img src="/teamelam/assets/images/The-first-ever-ED-games/2014-05-21+12.26.14.jpg" />
+    <img src="/assets/images/The-first-ever-ED-games/2014-05-21+12.26.14.jpg" />
   </p>
 
   <p>
-    <img src="/teamelam/assets/images/The-first-ever-ED-games/2014-05-26+10.08.49.jpg" />
+    <img src="/assets/images/The-first-ever-ED-games/2014-05-26+10.08.49.jpg" />
   </p>
 
   <p>
-    <img src="/teamelam/assets/images/The-first-ever-ED-games/2014-05-21+12.20.36.jpg" />
+    <img src="/assets/images/The-first-ever-ED-games/2014-05-21+12.20.36.jpg" />
   </p>
 
   <p>
-    <img src="/teamelam/assets/images/The-first-ever-ED-games/2014-05-26+10.09.09-2-1.jpg" />
+    <img src="/assets/images/The-first-ever-ED-games/2014-05-26+10.09.09-2-1.jpg" />
   </p>
 </div>

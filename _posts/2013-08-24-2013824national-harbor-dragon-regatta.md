@@ -12,70 +12,70 @@ Can I tell you how much I LOVE the National Harbor! &nbsp;Where else could we wa
 
 <div class="image-gallery-wrapper">
   <p>
-    <img src="/teamelam/assets/images/National-Harbor-Dragon-Regatta/2013-08-24+10.31.42.jpg" />
+    <img src="/assets/images/National-Harbor-Dragon-Regatta/2013-08-24+10.31.42.jpg" />
   </p>
 
   <p>
-    <img src="/teamelam/assets/images/National-Harbor-Dragon-Regatta/2013-08-24+10.27.09.jpg" />
+    <img src="/assets/images/National-Harbor-Dragon-Regatta/2013-08-24+10.27.09.jpg" />
   </p>
 
   <p>
-    <img src="/teamelam/assets/images/National-Harbor-Dragon-Regatta/2013-08-24+10.19.22.jpg" />
+    <img src="/assets/images/National-Harbor-Dragon-Regatta/2013-08-24+10.19.22.jpg" />
   </p>
 
   <p>
-    <img src="/teamelam/assets/images/National-Harbor-Dragon-Regatta/2013-08-24+10.25.21.jpg" />
+    <img src="/assets/images/National-Harbor-Dragon-Regatta/2013-08-24+10.25.21.jpg" />
   </p>
 
   <p>
-    <img src="/teamelam/assets/images/National-Harbor-Dragon-Regatta/2013-08-24+10.31.28.jpg" />
+    <img src="/assets/images/National-Harbor-Dragon-Regatta/2013-08-24+10.31.28.jpg" />
   </p>
 
   <p>
-    <img src="/teamelam/assets/images/National-Harbor-Dragon-Regatta/2013-08-24+11.09.42.jpg" />
+    <img src="/assets/images/National-Harbor-Dragon-Regatta/2013-08-24+11.09.42.jpg" />
   </p>
 
   <p>
-    <img src="/teamelam/assets/images/National-Harbor-Dragon-Regatta/2013-08-24+10.45.36.jpg" />
+    <img src="/assets/images/National-Harbor-Dragon-Regatta/2013-08-24+10.45.36.jpg" />
   </p>
 
   <p>
-    <img src="/teamelam/assets/images/National-Harbor-Dragon-Regatta/2013-08-24+10.16.17.jpg" />
+    <img src="/assets/images/National-Harbor-Dragon-Regatta/2013-08-24+10.16.17.jpg" />
   </p>
 
   <p>
-    <img src="/teamelam/assets/images/National-Harbor-Dragon-Regatta/2013-08-24+10.45.43.jpg" />
+    <img src="/assets/images/National-Harbor-Dragon-Regatta/2013-08-24+10.45.43.jpg" />
   </p>
 
   <p>
-    <img src="/teamelam/assets/images/National-Harbor-Dragon-Regatta/2013-08-24+10.45.57.jpg" />
+    <img src="/assets/images/National-Harbor-Dragon-Regatta/2013-08-24+10.45.57.jpg" />
   </p>
 
   <p>
-    <img src="/teamelam/assets/images/National-Harbor-Dragon-Regatta/2013-08-24+10.46.02.jpg" />
+    <img src="/assets/images/National-Harbor-Dragon-Regatta/2013-08-24+10.46.02.jpg" />
   </p>
 
   <p>
-    <img src="/teamelam/assets/images/National-Harbor-Dragon-Regatta/2013-08-24+10.52.52.jpg" />
+    <img src="/assets/images/National-Harbor-Dragon-Regatta/2013-08-24+10.52.52.jpg" />
   </p>
 
   <p>
-    <img src="/teamelam/assets/images/National-Harbor-Dragon-Regatta/2013-08-24+10.56.13.jpg" />
+    <img src="/assets/images/National-Harbor-Dragon-Regatta/2013-08-24+10.56.13.jpg" />
   </p>
 
   <p>
-    <img src="/teamelam/assets/images/National-Harbor-Dragon-Regatta/2013-08-24+11.08.20.jpg" />
+    <img src="/assets/images/National-Harbor-Dragon-Regatta/2013-08-24+11.08.20.jpg" />
   </p>
 
   <p>
-    <img src="/teamelam/assets/images/National-Harbor-Dragon-Regatta/2013-08-24+11.08.33.jpg" />
+    <img src="/assets/images/National-Harbor-Dragon-Regatta/2013-08-24+11.08.33.jpg" />
   </p>
 
   <p>
-    <img src="/teamelam/assets/images/National-Harbor-Dragon-Regatta/2013-08-24+11.39.36.jpg" />
+    <img src="/assets/images/National-Harbor-Dragon-Regatta/2013-08-24+11.39.36.jpg" />
   </p>
 
   <p>
-    <img src="/teamelam/assets/images/National-Harbor-Dragon-Regatta/2013-08-24+10.26.46.jpg" />
+    <img src="/assets/images/National-Harbor-Dragon-Regatta/2013-08-24+10.26.46.jpg" />
   </p>
 </div>

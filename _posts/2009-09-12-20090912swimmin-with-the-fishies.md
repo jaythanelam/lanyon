@@ -9,4 +9,4 @@ author: Jennifer
 layout: post
 ---
 
-<a rel="attachment wp-att-434" href="/teamelam/assets/images/swimminand-8217-with-the-fishies/1252825844000-missing.jpg" /></a>we drove to the far reaches of wisconsin in order to explore the fishes.
+<a rel="attachment wp-att-434" href="/assets/images/swimminand-8217-with-the-fishies/1252825844000-missing.jpg" /></a>we drove to the far reaches of wisconsin in order to explore the fishes.

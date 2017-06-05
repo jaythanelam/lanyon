@@ -8,4 +8,4 @@ author: Jennifer
 layout: post
 ---
 
-![](/teamelam/assets/images/Happy-St-Paddyand-8217-s-Day/iphone-20130317141833-0.jpg)
+![](/assets/images/Happy-St-Paddyand-8217-s-Day/iphone-20130317141833-0.jpg)

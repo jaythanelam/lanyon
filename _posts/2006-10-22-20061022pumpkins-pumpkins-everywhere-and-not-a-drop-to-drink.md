@@ -9,4 +9,4 @@ author: Jennifer
 layout: post
 ---
 
-<img id="image44" alt="pod102206.jpg" src="/teamelam/assets/images/pumpkins-pumpkins-everywhere/1161537919000-missing.jpg" />
+<img id="image44" alt="pod102206.jpg" src="/assets/images/pumpkins-pumpkins-everywhere/1161537919000-missing.jpg" />

@@ -9,7 +9,7 @@ author: Jennifer
 layout: post
 ---
 
-<img id="image33" alt="pod_092206.jpg" src="/teamelam/assets/images/AND-THEN-THERE-WERE-THREE/1160752245000-missing.jpg" />
+<img id="image33" alt="pod_092206.jpg" src="/assets/images/AND-THEN-THERE-WERE-THREE/1160752245000-missing.jpg" />
 
 I am proud to present **Noah Emmett Elam**. Just click on the linked file below and a quicktime movie will play photos of his first week. Enjoy!
 

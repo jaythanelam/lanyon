@@ -12,38 +12,38 @@ This fun extravaganza is a production put on by Imas school to raise money for n
 
 <div class="image-gallery-wrapper">
   <p>
-    <img src="/teamelam/assets/images/Family-Fun-Festival/2013-03-02+10.43.19.jpg" />
+    <img src="/assets/images/Family-Fun-Festival/2013-03-02+10.43.19.jpg" />
   </p>
 
   <p>
-    <img src="/teamelam/assets/images/Family-Fun-Festival/2013-03-02+10.43.15.jpg" />
+    <img src="/assets/images/Family-Fun-Festival/2013-03-02+10.43.15.jpg" />
   </p>
 
   <p>
-    <img src="/teamelam/assets/images/Family-Fun-Festival/2013-03-02+10.39.07.jpg" />
+    <img src="/assets/images/Family-Fun-Festival/2013-03-02+10.39.07.jpg" />
   </p>
 
   <p>
-    <img src="/teamelam/assets/images/Family-Fun-Festival/2013-03-02+10.34.29.jpg" />
+    <img src="/assets/images/Family-Fun-Festival/2013-03-02+10.34.29.jpg" />
   </p>
 
   <p>
-    <img src="/teamelam/assets/images/Family-Fun-Festival/2013-03-02+10.28.09.jpg" />
+    <img src="/assets/images/Family-Fun-Festival/2013-03-02+10.28.09.jpg" />
   </p>
 
   <p>
-    <img src="/teamelam/assets/images/Family-Fun-Festival/2013-03-02+10.33.32.jpg" />
+    <img src="/assets/images/Family-Fun-Festival/2013-03-02+10.33.32.jpg" />
   </p>
 
   <p>
-    <img src="/teamelam/assets/images/Family-Fun-Festival/2013-03-02+10.28.13.jpg" />
+    <img src="/assets/images/Family-Fun-Festival/2013-03-02+10.28.13.jpg" />
   </p>
 
   <p>
-    <img src="/teamelam/assets/images/Family-Fun-Festival/2013-03-02+10.31.38.jpg" />
+    <img src="/assets/images/Family-Fun-Festival/2013-03-02+10.31.38.jpg" />
   </p>
 
   <p>
-    <img src="/teamelam/assets/images/Family-Fun-Festival/2013-03-02+10.31.49.jpg" />
+    <img src="/assets/images/Family-Fun-Festival/2013-03-02+10.31.49.jpg" />
   </p>
 </div>

@@ -9,4 +9,4 @@ author: Jennifer
 layout: post
 ---
 
-<img id="image45" alt="pod_101906.jpg" src="/teamelam/assets/images/necessity-is-the-mother-of-all-invention/1161538638000-missing.jpg" />
+<img id="image45" alt="pod_101906.jpg" src="/assets/images/necessity-is-the-mother-of-all-invention/1161538638000-missing.jpg" />

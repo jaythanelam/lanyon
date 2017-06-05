@@ -11,4 +11,4 @@ layout: post
 
 Yes, we had a fun filled [play date](http://www.flickr.com/photos/jenniferandJennifers_photos/?saved=1 "play date")! Oliver and Noah were reacquainted under the tantalizing play mat and enjoyed every minute of it!
 
-<img id="image115" alt="pod_011207.jpg" src="/teamelam/assets/images/play-on-playa-part-deux/1168806613000-missing.jpg" />
+<img id="image115" alt="pod_011207.jpg" src="/assets/images/play-on-playa-part-deux/1168806613000-missing.jpg" />

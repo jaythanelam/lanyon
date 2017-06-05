@@ -10,30 +10,30 @@ layout: post
 
 <div class="image-gallery-wrapper">
   <p>
-    <img src="/teamelam/assets/images/Bridging-to-wolves/2014-05-18+16.52.52.jpg" />
+    <img src="/assets/images/Bridging-to-wolves/2014-05-18+16.52.52.jpg" />
   </p>
 
   <p>
-    <img src="/teamelam/assets/images/Bridging-to-wolves/2014-05-18+16.16.18.jpg" />
+    <img src="/assets/images/Bridging-to-wolves/2014-05-18+16.16.18.jpg" />
   </p>
 
   <p>
-    <img src="/teamelam/assets/images/Bridging-to-wolves/2014-05-18+16.53.00.jpg" />
+    <img src="/assets/images/Bridging-to-wolves/2014-05-18+16.53.00.jpg" />
   </p>
 
   <p>
-    <img src="/teamelam/assets/images/Bridging-to-wolves/2014-05-18+16.54.48.jpg" />
+    <img src="/assets/images/Bridging-to-wolves/2014-05-18+16.54.48.jpg" />
   </p>
 
   <p>
-    <img src="/teamelam/assets/images/Bridging-to-wolves/2014-05-18+16.55.28.jpg" />
+    <img src="/assets/images/Bridging-to-wolves/2014-05-18+16.55.28.jpg" />
   </p>
 
   <p>
-    <img src="/teamelam/assets/images/Bridging-to-wolves/2014-05-18+17.02.45.jpg" />
+    <img src="/assets/images/Bridging-to-wolves/2014-05-18+17.02.45.jpg" />
   </p>
 
   <p>
-    <img src="/teamelam/assets/images/Bridging-to-wolves/2014-05-18+17.05.06.jpg" />
+    <img src="/assets/images/Bridging-to-wolves/2014-05-18+17.05.06.jpg" />
   </p>
 </div>

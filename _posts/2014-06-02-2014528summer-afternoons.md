@@ -10,30 +10,30 @@ layout: post
 
 <div class="image-gallery-wrapper">
   <p>
-    <img src="/teamelam/assets/images/summer-afternoons/2014-05-16+13.58.27.jpg" />
+    <img src="/assets/images/summer-afternoons/2014-05-16+13.58.27.jpg" />
   </p>
 
   <p>
-    <img src="/teamelam/assets/images/summer-afternoons/2014-05-16+13.58.25.jpg" />
+    <img src="/assets/images/summer-afternoons/2014-05-16+13.58.25.jpg" />
   </p>
 
   <p>
-    <img src="/teamelam/assets/images/summer-afternoons/2014-05-16+13.58.17.jpg" />
+    <img src="/assets/images/summer-afternoons/2014-05-16+13.58.17.jpg" />
   </p>
 
   <p>
-    <img src="/teamelam/assets/images/summer-afternoons/2014-05-16+13.58.03.jpg" />
+    <img src="/assets/images/summer-afternoons/2014-05-16+13.58.03.jpg" />
   </p>
 
   <p>
-    <img src="/teamelam/assets/images/summer-afternoons/2014-05-16+13.57.52.jpg" />
+    <img src="/assets/images/summer-afternoons/2014-05-16+13.57.52.jpg" />
   </p>
 
   <p>
-    <img src="/teamelam/assets/images/summer-afternoons/2014-05-16+13.57.34.jpg" />
+    <img src="/assets/images/summer-afternoons/2014-05-16+13.57.34.jpg" />
   </p>
 
   <p>
-    <img src="/teamelam/assets/images/summer-afternoons/2014-05-16+13.56.32.jpg" />
+    <img src="/assets/images/summer-afternoons/2014-05-16+13.56.32.jpg" />
   </p>
 </div>

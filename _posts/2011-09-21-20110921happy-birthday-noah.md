@@ -9,7 +9,7 @@ author: Jennifer
 layout: post
 ---
 
-[<img title="IMG_0547" height="150" alt="" width="310" class="alignnone size-thumbnail wp-image-964" src="/teamelam/assets/images/Happy-Birthday-Noah/1296311085000-missing.jpg" />](http://www.flickr.com/photos/jenniferandJennifers_photos/sets/72157627666283253/)
+[<img title="IMG_0547" height="150" alt="" width="310" class="alignnone size-thumbnail wp-image-964" src="/assets/images/Happy-Birthday-Noah/1296311085000-missing.jpg" />](http://www.flickr.com/photos/jenniferandJennifers_photos/sets/72157627666283253/)
 
 &nbsp;
 

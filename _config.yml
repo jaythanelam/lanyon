@@ -8,11 +8,10 @@ collections:
   uploads:
     title: Uploads
     output: true
-permalink: date
 tagline: a family story
 description: This is our story, our home away from home, and our adventures as a team.
   Welcome to Team Elam :)
-url: teamelam.com
+url: http://teamelam.com
 baseurl: '/'
 paginate: 10
 author: Jennifer
@@ -21,4 +20,4 @@ email: jen@mommyknowsbest.co
 version: 1.0.0
 gems:
 - jekyll-paginate
-- kramdown
+markdown: kramdown

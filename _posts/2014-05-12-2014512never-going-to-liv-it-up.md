@@ -10,4 +10,4 @@ layout: post
 
 My mom told me today that with alittle organization, I could really have the kids in line! Little does she know that this is my organized 😝😝😝
 
-![](/assets/images/Never-going-to-liv-it-up/iphone-20140512161251-0.jpg)
+![](/teamelam/assets/images/Never-going-to-liv-it-up/iphone-20140512161251-0.jpg)

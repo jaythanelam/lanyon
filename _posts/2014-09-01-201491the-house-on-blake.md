@@ -14,18 +14,18 @@ Here&#8217;s our first night in the house on Blake. &nbsp;Address updates coming
 
 <div class="image-gallery-wrapper">
   <p>
-    <img src="/assets/images/the-house-on-Blake/2014-08-31+20.22.56.jpg" />
+    <img src="/teamelam/assets/images/the-house-on-Blake/2014-08-31+20.22.56.jpg" />
   </p>
 
   <p>
-    <img src="/assets/images/the-house-on-Blake/2014-08-31+20.13.30.jpg" />
+    <img src="/teamelam/assets/images/the-house-on-Blake/2014-08-31+20.13.30.jpg" />
   </p>
 
   <p>
-    <img src="/assets/images/the-house-on-Blake/2014-08-31+20.13.05.jpg" />
+    <img src="/teamelam/assets/images/the-house-on-Blake/2014-08-31+20.13.05.jpg" />
   </p>
 
   <p>
-    <img src="/assets/images/the-house-on-Blake/2014-08-31+20.12.50.jpg" />
+    <img src="/teamelam/assets/images/the-house-on-Blake/2014-08-31+20.12.50.jpg" />
   </p>
 </div>

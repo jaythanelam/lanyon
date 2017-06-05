@@ -13,4 +13,4 @@ LOV-ING music together! as the other mom&#8217;s parade around their babies, dan
 
 what can i say, I&#8217;m completely in love! after-all, it&#8217;s that same mindset that had me falling in love with his daddy!
 
-<img id="image120" alt="pod_13007.jpg" src="/assets/images/the-incredible-edible-and-8211-stick/1170168114000-missing.jpg" />
+<img id="image120" alt="pod_13007.jpg" src="/teamelam/assets/images/the-incredible-edible-and-8211-stick/1170168114000-missing.jpg" />

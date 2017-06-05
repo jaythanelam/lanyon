@@ -21,3 +21,4 @@ email: jen@mommyknowsbest.co
 version: 1.0.0
 gems:
 - jekyll-paginate
+- kramdown

@@ -9,4 +9,4 @@ author: Jennifer
 layout: post
 ---
 
-Tonight marked the first time we fed Noah rice cereal. I&#8217;m not sure how much was actually ingested, but I&#8217;m totally pumped about what&#8217;s to come!!<img id="image147" alt="p3190003_2.jpg" src="/assets/images/I-feel-like-rice-tonight/1174331874000-missing.jpg" />
+Tonight marked the first time we fed Noah rice cereal. I&#8217;m not sure how much was actually ingested, but I&#8217;m totally pumped about what&#8217;s to come!!<img id="image147" alt="p3190003_2.jpg" src="/teamelam/assets/images/I-feel-like-rice-tonight/1174331874000-missing.jpg" />

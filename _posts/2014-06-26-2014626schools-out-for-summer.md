@@ -14,50 +14,50 @@ This trip we veered off down the Asian Trail which dumped us on the backend of t
 
 <div class="image-gallery-wrapper">
   <p>
-    <img src="/assets/images/schooland-8217-s-out-for-summer/2014-06-26+12.45.38.jpg" />
+    <img src="/teamelam/assets/images/schooland-8217-s-out-for-summer/2014-06-26+12.45.38.jpg" />
   </p>
 
   <p>
-    <img src="/assets/images/schooland-8217-s-out-for-summer/2014-06-26+10.25.13.jpg" />
+    <img src="/teamelam/assets/images/schooland-8217-s-out-for-summer/2014-06-26+10.25.13.jpg" />
   </p>
 
   <p>
-    <img src="/assets/images/schooland-8217-s-out-for-summer/2014-06-26+10.26.19.jpg" />
+    <img src="/teamelam/assets/images/schooland-8217-s-out-for-summer/2014-06-26+10.26.19.jpg" />
   </p>
 
   <p>
-    <img src="/assets/images/schooland-8217-s-out-for-summer/2014-06-26+10.53.34.jpg" />
+    <img src="/teamelam/assets/images/schooland-8217-s-out-for-summer/2014-06-26+10.53.34.jpg" />
   </p>
 
   <p>
-    <img src="/assets/images/schooland-8217-s-out-for-summer/2014-06-26+11.56.56.jpg" />
+    <img src="/teamelam/assets/images/schooland-8217-s-out-for-summer/2014-06-26+11.56.56.jpg" />
   </p>
 
   <p>
-    <img src="/assets/images/schooland-8217-s-out-for-summer/2014-06-26+12.58.56.jpg" />
+    <img src="/teamelam/assets/images/schooland-8217-s-out-for-summer/2014-06-26+12.58.56.jpg" />
   </p>
 
   <p>
-    <img src="/assets/images/schooland-8217-s-out-for-summer/2014-06-26+12.44.01.jpg" />
+    <img src="/teamelam/assets/images/schooland-8217-s-out-for-summer/2014-06-26+12.44.01.jpg" />
   </p>
 
   <p>
-    <img src="/assets/images/schooland-8217-s-out-for-summer/2014-06-26+12.57.21.jpg" />
+    <img src="/teamelam/assets/images/schooland-8217-s-out-for-summer/2014-06-26+12.57.21.jpg" />
   </p>
 
   <p>
-    <img src="/assets/images/schooland-8217-s-out-for-summer/2014-06-26+13.03.00.jpg" />
+    <img src="/teamelam/assets/images/schooland-8217-s-out-for-summer/2014-06-26+13.03.00.jpg" />
   </p>
 
   <p>
-    <img src="/assets/images/schooland-8217-s-out-for-summer/2014-06-26+12.45.29.jpg" />
+    <img src="/teamelam/assets/images/schooland-8217-s-out-for-summer/2014-06-26+12.45.29.jpg" />
   </p>
 
   <p>
-    <img src="/assets/images/schooland-8217-s-out-for-summer/2014-06-26+13.01.25.jpg" />
+    <img src="/teamelam/assets/images/schooland-8217-s-out-for-summer/2014-06-26+13.01.25.jpg" />
   </p>
 
   <p>
-    <img src="/assets/images/schooland-8217-s-out-for-summer/2014-06-26+12.57.21.jpg" />
+    <img src="/teamelam/assets/images/schooland-8217-s-out-for-summer/2014-06-26+12.57.21.jpg" />
   </p>
 </div>

@@ -13,4 +13,4 @@ All right so i know my posts are getting few and far between, acting more like t
 
 WE&#8217;RE PREGNANT! We&#8217;re expecting our little girl early in November and couldn&#8217;t be happier!
 
-<img id="image234" alt="imogen.jpg" src="/assets/images/do-i-have-some-news-for-you/1219652464000-missing.jpg" />
+<img id="image234" alt="imogen.jpg" src="/teamelam/assets/images/do-i-have-some-news-for-you/1219652464000-missing.jpg" />

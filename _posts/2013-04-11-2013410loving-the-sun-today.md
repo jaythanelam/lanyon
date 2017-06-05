@@ -10,58 +10,58 @@ layout: post
 
 <div class="image-gallery-wrapper">
   <p>
-    <img src="/assets/images/ahhhhh-sun/2013-04-10+16.20.37.jpg" />
+    <img src="/teamelam/assets/images/ahhhhh-sun/2013-04-10+16.20.37.jpg" />
   </p>
 
   <p>
-    <img src="/assets/images/ahhhhh-sun/2013-04-10+16.26.16.jpg" />
+    <img src="/teamelam/assets/images/ahhhhh-sun/2013-04-10+16.26.16.jpg" />
   </p>
 
   <p>
-    <img src="/assets/images/ahhhhh-sun/2013-04-10+16.27.46.jpg" />
+    <img src="/teamelam/assets/images/ahhhhh-sun/2013-04-10+16.27.46.jpg" />
   </p>
 
   <p>
-    <img src="/assets/images/ahhhhh-sun/2013-04-10+16.26.37.jpg" />
+    <img src="/teamelam/assets/images/ahhhhh-sun/2013-04-10+16.26.37.jpg" />
   </p>
 
   <p>
-    <img src="/assets/images/ahhhhh-sun/2013-04-10+16.20.32.jpg" />
+    <img src="/teamelam/assets/images/ahhhhh-sun/2013-04-10+16.20.32.jpg" />
   </p>
 
   <p>
-    <img src="/assets/images/ahhhhh-sun/2013-04-10+16.25.48.jpg" />
+    <img src="/teamelam/assets/images/ahhhhh-sun/2013-04-10+16.25.48.jpg" />
   </p>
 
   <p>
-    <img src="/assets/images/ahhhhh-sun/2013-04-10+16.26.19.jpg" />
+    <img src="/teamelam/assets/images/ahhhhh-sun/2013-04-10+16.26.19.jpg" />
   </p>
 
   <p>
-    <img src="/assets/images/ahhhhh-sun/2013-04-10+16.26.33.jpg" />
+    <img src="/teamelam/assets/images/ahhhhh-sun/2013-04-10+16.26.33.jpg" />
   </p>
 
   <p>
-    <img src="/assets/images/ahhhhh-sun/2013-04-10+16.26.49.jpg" />
+    <img src="/teamelam/assets/images/ahhhhh-sun/2013-04-10+16.26.49.jpg" />
   </p>
 
   <p>
-    <img src="/assets/images/ahhhhh-sun/2013-04-10+16.53.42.jpg" />
+    <img src="/teamelam/assets/images/ahhhhh-sun/2013-04-10+16.53.42.jpg" />
   </p>
 
   <p>
-    <img src="/assets/images/ahhhhh-sun/2013-04-10+16.53.47.jpg" />
+    <img src="/teamelam/assets/images/ahhhhh-sun/2013-04-10+16.53.47.jpg" />
   </p>
 
   <p>
-    <img src="/assets/images/ahhhhh-sun/2013-04-10+16.53.52.jpg" />
+    <img src="/teamelam/assets/images/ahhhhh-sun/2013-04-10+16.53.52.jpg" />
   </p>
 
   <p>
-    <img src="/assets/images/ahhhhh-sun/2013-04-10+16.56.29.jpg" />
+    <img src="/teamelam/assets/images/ahhhhh-sun/2013-04-10+16.56.29.jpg" />
   </p>
 
   <p>
-    <img src="/assets/images/ahhhhh-sun/2013-04-10+16.53.27.jpg" />
+    <img src="/teamelam/assets/images/ahhhhh-sun/2013-04-10+16.53.27.jpg" />
   </p>
 </div>

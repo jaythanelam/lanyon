@@ -12,4 +12,4 @@ layout: post
 
 We hunted, we picked, we carved and scraped (not to mention the yumminess that is a roasted pumpkin seed!) and here are the fruits of our labor!
 
-<img id="image203" alt="pa290064.jpg" src="/assets/images/we-put-the-JACK-in-jack-o-lantern/1193688028000-missing.jpg" />
+<img id="image203" alt="pa290064.jpg" src="/teamelam/assets/images/we-put-the-JACK-in-jack-o-lantern/1193688028000-missing.jpg" />

@@ -14,6 +14,6 @@ Here&#8217;s to a great day for him and a fun day with just the girls 😉
 
 <div class="image-gallery-wrapper">
   <p>
-    <img src="/assets/images/let-the-games-begin/2013-09-03+07.47.35.jpg" />
+    <img src="/teamelam/assets/images/let-the-games-begin/2013-09-03+07.47.35.jpg" />
   </p>
 </div>

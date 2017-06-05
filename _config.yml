@@ -12,9 +12,9 @@ permalink: date
 tagline: a family story
 description: This is our story, our home away from home, and our adventures as a team.
   Welcome to Team Elam :)
-url:
-baseurl: '/teamelam'
-paginate: 5
+url: teamelam.com
+baseurl: '/'
+paginate: 10
 author: Jennifer
 name: Jennifer Elam
 email: jen@mommyknowsbest.co
